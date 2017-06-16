@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kooperativet
+group: "navigation"
+weight: 2
+---
 # Kooperativet
 Här kan du läsa mer om hur föreningsarbetet på Barnlåten fungerar och vilket ansvar du har som förälder.
 
