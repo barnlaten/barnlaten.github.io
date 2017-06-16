@@ -10,15 +10,13 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 </head>
 <body>
+  {% include navbar.html %}
+    
     <section class="page-header">
+
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
     </section>
-    <ul class="nav nav-tabs">
-      {% assign pages_list = site.weighted_pages %}
-      {% assign group = 'navigation' %}
-      {% include pages_list %}
-    </ul>
 
     <section class="main-content">
       {{ content }}

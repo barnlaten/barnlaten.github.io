@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Hem
-group: "navigation"
-weight: 1
+permalink: /
 ---
 ## Välkommen till Barnlåten!
 
