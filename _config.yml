@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 title: Barnlåten
+
+# Plugins
+gems:
+  - weighted_pages
