@@ -1,66 +1,31 @@
-<nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-  <div class="container">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      {% if site.navigation.left.links %}
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          {% for link in site.navigation.left.links %}
-            <span class="icon-bar"></span>
-          {% endfor %}
-        </button>
-      {% endif %}
-      <a class="navbar-brand" href="{{ site.url }}">{{ site.brand }}</a>
-    </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse navbar-ex1-collapse">
-      {% if site.navigation.left %}
-        {% if site.navigation.left.content %}
-          {% include {{ site.navigation.left.content }} %}
-        {% endif %}
-        {% if site.navigation.left.links %}
-          <ul class="nav navbar-nav">
-            {% for link in site.navigation.left.links %}
-              {% if link.dropdown %}
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ link.title }} <b class="caret"></b></a>
-                  <ul class="dropdown-menu">
-                    {% for submenu in link.dropdown %}
-                      <li><a href="{{ submenu.href }}">{{ submenu.title }}</a></li>
-                    {% endfor %}
-                  </ul>
+<!-- Navigation -->
+<nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#page-top">{{ site.title }}</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="hidden">
+                    <a href="#page-top"></a>
                 </li>
-              {% else %}
-                <li class="page-scroll"><a href="#{{ link.title }}">{{ link.title }}</a></li>
-              {% endif %}
-            {% endfor %}
-          </ul>
-        {% endif %}
-      {% endif %}
-      {% if site.navigation.right %}
-        {% if site.navigation.right.content %}
-          {% include {{ site.navigation.right.content }} %}
-        {% endif %}
-        {% if site.navigation.right.links %}
-          <ul class="nav navbar-nav navbar-right">
-            {% for link in site.navigation.right.links %}
-              {% if link.dropdown %}
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ link.title }} <b class="caret"></b></a>
-                  <ul class="dropdown-menu">
-                    {% for submenu in link.dropdown %}
-                      <li><a href="{{ submenu.href }}">{{ submenu.title }}</a></li>
-                    {% endfor %}
-                  </ul>
+                <li class="page-scroll">
+                    <a href="#hem">Hem</a>
                 </li>
-              {% else %}
-                <li><a href="{{ link.href }}">{{ link.title }}</a></li>
-              {% endif %}
-            {% endfor %}
-          </ul>
-        {% endif %}
-      {% endif %}
+                <li class="page-scroll">
+                    <a href="#kooperativet">Kooperativet</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
     </div>
-  </div>
+    <!-- /.container-fluid -->
 </nav>
