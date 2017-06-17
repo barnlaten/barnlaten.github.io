@@ -2,7 +2,7 @@
 layout: post
 title: Pedagogik
 ---
-# Pedagogik
+### Pedagogik
 Förskolan är det första steget i vårt utbildningssystem. I förskolan ska vi utgå från att varje barn vill erövra 
 omvärlden. Vår uppgift som pedagoger är att leda och stödja barnen i deras upptäckter i riktning mot de mål som vår 
 läroplan anger.
