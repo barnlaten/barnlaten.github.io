@@ -7,7 +7,9 @@
   {% for post in site.posts %}
   {{ content }}
     <section {% cycle '', 'class="success"' %} id="{{ post.title }}">
+      <div class="container">
       {{ post.content }}
+      </div>
     </section>
   {% endfor %}
       <footer class="site-footer">
