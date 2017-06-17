@@ -8,7 +8,7 @@
       <div class="row">
         {{ content }}
   {% for post in site.posts %}
-    <section id="{{ post.title }}">
+    <section {% cycle '', 'class="success"' %} id="{{ post.title }}">
       {{ post.content }}
     </section>
   {% endfor %}

@@ -2,7 +2,7 @@
 layout: post
 title: Kooperativet
 ---
-### Hur fungerar föräldrakooperativet? 
+# Hur fungerar föräldrakooperativet? 
 För en föräldrakooperativ förskola är föräldrarnas aktiva medverkan central. På Barnlåten ska vi föräldrar se till att personalen 
 får förutsättningarna för att kunna göra ett bra arbete. Det innebär lite mer ansvar, lite mer arbete, men ger mångfalt tillbaka. 
 Ett kooperativ ger fantastiska möjligheter att få inblick och inflytande i ditt barns vardag.
