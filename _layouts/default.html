@@ -8,7 +8,7 @@
       <div class="row">
         {{ content }}
   {% for post in site.posts %}
-    <section>
+    <section id="{{page.title }}">
       {{ post.content }}
     </section>
   {% endfor %}
