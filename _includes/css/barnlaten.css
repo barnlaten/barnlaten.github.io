@@ -1,0 +1,11 @@
+header {
+    background: #d1e8f6;
+}
+
+.navbar-custom {
+    background: #d1e8f6;
+}
+
+.navbar-custom .navbar-brand, .navbar-custom .navbar-brand.active, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:hover, .navbar-custom .navbar-nav li a, header {
+    color: #2a79a9;
+}
