@@ -1,21 +1,3 @@
-theme: jekyll-theme-cayman
 title: Barnlåten
 description: Föräldrakooperativ
 brand: Barnlåten
-
-# The navigation.
-navigation:
-  left:
-    links:
-      - title: Hem
-        href: /
-      - title: Kooperativet
-        href: /kooperativet/
-      - title: Dropdown
-        dropdown:
-          - title: SubMenu 1
-            href: #
-          - title: SubMenu 2
-            href: #
-          - title: SubMenu 3
-            href: #
