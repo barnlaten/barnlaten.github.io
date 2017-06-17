@@ -5,6 +5,7 @@
   {% include navbar.html %}
   {% include header.html %}
   {% for post in site.posts %}
+  {{ content }}
     <section {% cycle '', 'class="success"' %} id="{{ post.title }}">
       {{ post.content }}
     </section>
