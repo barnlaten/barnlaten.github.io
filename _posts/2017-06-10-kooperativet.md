@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: post
 title: Kooperativet
 permalink: /kooperativet/
 ---
-# Kooperativet
 Här kan du läsa mer om hur föreningsarbetet på Barnlåten fungerar och vilket ansvar du har som förälder.
 
 ## Hur fungerar föräldrakooperativet? 
