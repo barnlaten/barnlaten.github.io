@@ -25,3 +25,11 @@ section.success {
     background: #d1e8f6;
     color: #2a79a9;
 }
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+  color: #2a79a9;
+}
