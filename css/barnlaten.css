@@ -15,6 +15,12 @@ header {
     background: #2a79a9;
 }
 
+.navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover {
+    background-color: #2a79a9;
+    color: #d1e8f6;
+    border-color: #2a79a9;
+}
+
 section.success {
     background: #d1e8f6;
     color: #2a79a9;
