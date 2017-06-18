@@ -41,6 +41,10 @@ section.success {
     color: #2a79a9;
 }
 
+section.map {
+    padding: 0;
+}
+
 a,
 a:hover,
 a:focus,
