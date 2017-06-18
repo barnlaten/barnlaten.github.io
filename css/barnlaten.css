@@ -6,19 +6,34 @@ header {
     background: #d1e8f6;
 }
 
-.navbar-custom .navbar-brand, .navbar-custom .navbar-brand.active, .navbar-custom .navbar-brand:active, .navbar-custom .navbar-brand:focus, .navbar-custom .navbar-brand:hover, .navbar-custom .navbar-nav li a, header {
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-brand.active, 
+.navbar-custom .navbar-brand:active, 
+.navbar-custom .navbar-brand:focus, 
+.navbar-custom .navbar-brand:hover, 
+.navbar-custom .navbar-nav li a, 
+header {
     color: #2a79a9;
 }
 
-.navbar-custom .navbar-nav li.active a, .navbar-custom .navbar-nav li.active a:active, .navbar-custom .navbar-nav li.active a:focus, .navbar-custom .navbar-nav li.active a:hover {
+.navbar-custom .navbar-nav li.active a,
+.navbar-custom .navbar-nav li.active a:active,
+.navbar-custom .navbar-nav li.active a:focus, 
+.navbar-custom .navbar-nav li.active a:hover {
     color: #d1e8f6;
     background: #2a79a9;
 }
 
-.navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover {
+.navbar-custom .navbar-toggle:focus, 
+.navbar-custom .navbar-toggle:hover {
     background-color: #2a79a9;
     color: #d1e8f6;
     border-color: #2a79a9;
+}
+
+.navbar-custom .navbar-nav li a:hover {
+  color: #2a79a9;
+  outline: none;
 }
 
 section.success {
