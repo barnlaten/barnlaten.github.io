@@ -2,6 +2,10 @@ header {
     background: #d1e8f6;
 }
 
+li {
+    font-size: 20px; 
+}
+
 .navbar-custom {
     background: #d1e8f6;
 }
