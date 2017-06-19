@@ -2,8 +2,13 @@ header {
     background: #d1e8f6;
 }
 
-li {
+ol, ul {
     font-size: 20px; 
+}
+
+ul.navbar-right, 
+ul.list-unstyled {
+    font-size: 14px; 
 }
 
 .navbar-custom {
