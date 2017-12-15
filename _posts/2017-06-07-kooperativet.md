@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kooperativet
+image: DSC_0674.jpg
 ---
 ### Hur fungerar föräldrakooperativet? 
 För en föräldrakooperativ förskola är föräldrarnas aktiva medverkan central. På Barnlåten ska vi föräldrar se till att personalen 

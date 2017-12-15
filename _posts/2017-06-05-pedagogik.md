@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pedagogik
+image: DSC_0653.jpg
 ---
 ### Pedagogik
 Förskolan är det första steget i vårt utbildningssystem. I förskolan ska vi utgå från att varje barn vill erövra 
