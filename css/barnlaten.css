@@ -45,6 +45,10 @@ header {
   outline: none;
 }
 
+section {
+    padding-top: 0;
+}
+
 section.success {
     background: #d1e8f6;
     color: #2a79a9;
