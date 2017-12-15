@@ -45,6 +45,12 @@ header {
   outline: none;
 }
 
+img {
+    position: relative;
+    left: -15px;
+    z-index: 99;
+}
+
 section {
     padding-top: 0;
 }
