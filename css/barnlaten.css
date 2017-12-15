@@ -46,9 +46,11 @@ header {
 }
 
 img {
-    position: relative;
-    left: -15px;
-    z-index: 99;
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
 }
 
 section {
