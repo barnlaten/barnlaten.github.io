@@ -1,0 +1,120 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Städrutiner för Barnlåtens föräldrakooperativ</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<script src="https://script.google.com/macros/s/AKfycbzR20cJprvGD6WuWXYOc9mg6D6xcMxKnoKR2KfseL8gG1ANq7E/exec"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/icon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/icon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png">
+<link rel="manifest" href="/cleanapp.json">
+<meta name="msapplication-TileColor" content="#d2e8f5">
+<meta name="msapplication-TileImage" content="/icon/ms-icon-144x144.png">
+<meta name="theme-color" content="#d2e8f5">
+<style>
+input[type=checkbox]
+{
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(1.5); /* IE */
+  -moz-transform: scale(1.5); /* FF */
+  -webkit-transform: scale(1.5); /* Safari and Chrome */
+  -o-transform: scale(1.5); /* Opera */
+  transform: scale(1.5);
+  padding: 10px;
+  margin: 10px;
+}
+</style>
+</head>
+<body>
+<div id="cleanlist">
+<div class="input-group">
+  <div class="input-group-prepend">
+    <span class="input-group-text bg-primary text-white">Följande görs av föräldrar</span>
+  </div>
+  <select v-model="selected" class="custom-select">
+    <option value="vardag">måndag till torsdag</option>
+    <option value="helg">på helgen</option>
+  </select>
+</div>
+<button class="btn btn-outline-secondary btn-block" type="button" v-on:click="uncheck">Rensa alla kryssade bockar</button>
+<ul class="list-group">
+  <li v-for="task in tasks[selected]" class="list-group-item list-group-item-info">
+    <template  v-if="task[1].substr(task[1].length - 1)=='X'" >
+    <label><input type="checkbox"> <b>{{ task[0] }}. {{ task[1].substr(0, task[1].length - 1)}}</b></label>
+    </template>
+    <template v-else="">
+    <b>{{ task[0] }}. {{ task[1] }}</b>
+    </template>
+    <ul class="list-group">
+      <li v-if="stask" v-for="stask in task[2]" class="list-group-item list-group-item-dark">
+        <template  v-if="stask.substr(stask.length - 1)=='X'" >
+        <label><input type="checkbox"> <span v-html="stask.substr(0, stask.length - 1)"></span></label>
+        </template>
+        <template v-else=""><span v-html="stask"></span></template>
+      </li>
+    </ul>
+  </li>
+</ul>
+<div class="card bg-light">
+  <div class="card-header">Info</div>
+  <div class="card-body">
+  <template v-for="inf in todos.info">
+  <h4 v-if="inf[0].slice(-1) == ':'"> {{ inf[0] }}</h4>
+  <p v-else-if="inf[0]!==''"><b>&bull;</b> {{ inf[0] }}</p>
+  <p v-else="">&nbsp;<p>
+  </template>
+  </div>
+</div>
+</div>
+</body>
+<script>
+
+var vardag = (new Date().getDay() > 0 & new Date().getDay() < 5);
+if (vardag){
+  vardag = "vardag";
+}
+else {
+  vardag = "helg";
+}
+
+var cleanlist = new Vue({
+  el: '#cleanlist',
+  methods: {
+    markdown: function(mdstring){
+      return marked(mdstring);
+    },
+    sublist: function(lista){
+      var blist = lista[2].split("\n\n")
+      lista[2] = blist;
+      return lista;
+    },
+    uncheck: function(){
+      location.reload();
+   }
+  },
+  computed: { tasks: function(){
+    return {
+      "vardag": this.todos.vardag.map(this.sublist),
+      "helg": this.todos.helg.map(this.sublist)
+    } ;
+  }},
+  data: {
+    selected: vardag,
+    todos: window.todos
+  }
+})
+</script>
+</html>
