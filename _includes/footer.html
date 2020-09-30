@@ -6,19 +6,27 @@
                 <div class="footer-col col-md-4">
                     <h4>Förskolechef</h4>
                     <ul class="list-unstyled">
-                        <li>Emelie Andersson</li>
-                        <li><i class="fa fa-phone fa-fw"></i>031-47 19 71</li> 
+                        <li>{{ site.rektor_namn }}</li>
                         <li>
-                            <i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:emelie.andersson@barnlaten.se">emelie.andersson@barnlaten.se</a>
+                            <i class="fa fa-phone fa-fw"></i>
+                            {{ site.rektor_telefon }}
+                        </li> 
+                        <li>
+                            <i class="fa fa-envelope-o fa-fw"></i>
+                            <a href="mailto:e{{ site.rektor_mail }}">{{ site.rektor_mail }}</a>
                         </li>
                     </ul>
                 </div>
                 <div class="footer-col col-md-4">
                     <h4>Kontakt</h4>
                     <ul class="list-unstyled">
-                        <li><i class="fa fa-phone fa-fw"></i>031-47 19 71</li>
                         <li>
-                            <i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:kontakt@barnlaten.se">kontakt@barnlaten.se</a>
+                            <i class="fa fa-phone fa-fw"></i>
+                            {{ site.kontakt_telefon }}
+                        </li>
+                        <li>
+                            <i class="fa fa-envelope-o fa-fw"></i>
+                            <a href="mailto:{{ site.kontakt_mail }}">{{ site.kontakt_mail }}</a>
                         </li>
                     </ul>
                 </div>
@@ -26,7 +34,8 @@
                     <h4>Styrelsen</h4>
                     <ul class="list-unstyled">
                         <li>
-                            <i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:styrelsen@barnlaten.se">styrelsen@barnlaten.se</a>
+                            <i class="fa fa-envelope-o fa-fw"></i>
+                            <a href="mailto:{{ site.styrelsen_mail }}">{{ site.styrelsen_mail }}</a>
                         </li>
                     </ul>
                 </div>
@@ -34,8 +43,10 @@
             <div class="row">
                 <div class="footer-col col-md-12">
                     <h3>Adress</h3>
-                    <p>{{ site.address_street }}
-                        <br>{{ site.address_zip }}, {{ site.address_city }}</p>
+                    <p>
+                    {{ site.address_street }}<br>
+                    {{ site.address_zip }}, {{ site.address_city }}
+                    </p>
                 </div>
             </div>
         </div>
