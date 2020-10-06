@@ -1,7 +1,7 @@
 {
  "name": "Städlista",
  "short_name": "Barnlåten Städlista",
- "start_url": "/clean.html",
+ "start_url": "/clean",
  "display": "standalone",
  "background_color": "#d2e8f5",
  "description": "Städinstruktioner för Barnlåten",
