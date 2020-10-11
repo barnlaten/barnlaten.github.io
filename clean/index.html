@@ -50,16 +50,16 @@ input[type=checkbox]
   <div class="col-12 col-md-8 col-lg-6">
     <div class="input-group">
       <div class="input-group-prepend">
-        <span class="input-group-text bg-primary text-white">Följande görs av föräldrar</span>
+        <span class="input-group-text bg-primary text-white">{{texts["done"+lang]}}</span>
       </div>
       <select v-model="selected" class="custom-select">
-        <option value="vardag">måndag till torsdag</option>
-        <option value="helg">på helgen</option>
+        <option value="vardag">{{texts["workday"+lang]}}</option>
+        <option value="helg">{{texts["weekend"+lang]}}</option>
       </select>
     </div>
   </div>
   <div class="col-12 col-md-12 col-lg-3">
-    <button class="btn btn-outline-secondary btn-block" type="button" v-on:click="uncheck">Rensa alla kryssade bockar</button>
+    <button class="btn btn-outline-secondary btn-block" type="button" v-on:click="uncheck">{{texts["clear"+lang]}}</button>
   </div>
 </div>
 <ul class="list-group">
@@ -142,6 +142,16 @@ var cleanlist = new Vue({
     }
   },
   data: {
+    texts: {
+      "weekend":"på helgen",
+      "weekend_eng":"in the weekend",
+      "workday":"måndag till torsdag",
+      "workday_eng":"Monday to Thursday",
+      "done":"Följande görs av föräldrar",
+      "done_eng":"The following is performed by parents",
+      "clear":"Rensa alla kryssade bockar",
+      "clear_eng":"Clear all checked checkboxes"
+      },
     lang: "",
     selected: vardag,
     todos: window.todos
