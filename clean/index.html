@@ -39,7 +39,7 @@ input[type=checkbox]
 </style>
 </head>
 <body>
-<div id="cleanlist">
+<div id="cleanlist" class="container">
 <div class="row">
   <div class="col-12 col-md-4 col-lg-3">
     <div class="btn-group" style="width:100%">
@@ -47,23 +47,24 @@ input[type=checkbox]
       <button type="button" v-on:click="lang='_eng'" class="btn" v-bind:class="eng_class">English</button>
     </div>
   </div>
-  <div class="col-12 col-md-8 col-lg-6">
-    <div class="input-group">
-      <div class="input-group-prepend">
-        <span class="input-group-text bg-primary text-white">{{texts["done"+lang]}}</span>
-      </div>
-      <select v-model="selected" class="custom-select">
-        <option value="vardag">{{texts["workday"+lang]}}</option>
-        <option value="helg">{{texts["weekend"+lang]}}</option>
-      </select>
+  <div class="col-12 col-md-8 col-lg-4">
+    <div class="btn-group" style="width:100%">
+      <button type="button" v-on:click="selected='vardag'" class="btn" v-bind:class="wday_class">{{texts["workday"+lang]}}</button>
+      <button type="button" v-on:click="selected='helg'" class="btn" v-bind:class="wend_class">{{texts["weekend"+lang]}}</button>
     </div>
   </div>
-  <div class="col-12 col-md-12 col-lg-3">
+  <div class="col-4 col-md-4 col-lg-2">
+    <div class="btn-group" style="width:100%">
+      <button type="button" v-on:click="smitta=''" class="btn" v-bind:class="{'btn-outline-secondary':smitta, 'btn-primary':!smitta}">😀</button>
+      <button type="button" v-on:click="smitta='sjukdom_'" class="btn" v-bind:class="{'btn-primary':smitta, 'btn-outline-secondary':!smitta}">🤮</button>
+    </div>
+  </div>
+  <div class="col-8 col-md-8 col-lg-3">
     <button class="btn btn-outline-secondary btn-block" type="button" v-on:click="uncheck">{{texts["clear"+lang]}}</button>
   </div>
 </div>
 <ul class="list-group">
-  <li v-for="task in tasks[selected+lang]" class="list-group-item list-group-item-info">
+  <li v-for="task in tasks" class="list-group-item list-group-item-info">
     <template  v-if="task[1].substr(task[1].length - 1)=='X'" >
     <label><input type="checkbox"> <b>{{ task[0] }}. {{ task[1].substr(0, task[1].length - 1)}}</b></label>
     </template>
@@ -109,9 +110,8 @@ var cleanlist = new Vue({
       return marked(mdstring);
     },
     sublist: function(lista){
-      var blist = lista[2].split("\n\n")
-      lista[2] = blist;
-      return lista;
+      var blist = lista[2].split("\n\n");
+      return [lista[0],lista[1],blist];
     },
     uncheck: function(){
       location.reload();
@@ -119,40 +119,48 @@ var cleanlist = new Vue({
   },
   computed: {
     tasks: function(){
-      return {
-        "vardag": this.todos.vardag.map(this.sublist),
-        "helg": this.todos.helg.map(this.sublist),
-        "vardag_eng": this.todos.vardag_eng.map(this.sublist),
-        "helg_eng": this.todos.helg_eng.map(this.sublist)
-      } ;
+      return this.todos[this.smitta+this.selected+this.lang].map(this.sublist)
     },
     eng_class: function(){
       if(this.lang == "_eng"){
         return "btn-primary";
       } else {
-        return "btn-secondary";
+        return "btn-outline-secondary";
         }
     },
     sve_class: function(){
       if(this.lang == ""){
         return "btn-primary";
       } else {
-        return "btn-secondary";
+        return "btn-outline-secondary";
         }
-    }
+    },
+    wday_class: function(){
+      if(this.selected == "vardag"){
+        return "btn-primary";
+      } else {
+        return "btn-outline-secondary";
+        }
+    },
+    wend_class: function(){
+      if(this.selected == "helg"){
+        return "btn-primary";
+      } else {
+        return "btn-outline-secondary";
+        }
+    },
   },
   data: {
     texts: {
-      "weekend":"på helgen",
-      "weekend_eng":"in the weekend",
-      "workday":"måndag till torsdag",
+      "weekend":"Helg",
+      "weekend_eng":"Weekend",
+      "workday":"Måndag till torsdag",
       "workday_eng":"Monday to Thursday",
-      "done":"Följande görs av föräldrar",
-      "done_eng":"The following is performed by parents",
       "clear":"Rensa alla kryssade bockar",
       "clear_eng":"Clear all checked checkboxes"
       },
     lang: "",
+    smitta: "",
     selected: vardag,
     todos: window.todos
   }
