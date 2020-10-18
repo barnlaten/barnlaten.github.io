@@ -85,8 +85,8 @@ input[type=checkbox]
   <div class="card-header">Info</div>
   <div class="card-body">
   <template v-for="inf in todos['info'+lang]">
-  <h4 v-if="inf[0].slice(-1) == ':'"> {{ inf[0] }}</h4>
-  <p v-else-if="inf[0]!==''"><b>&bull;</b> {{ inf[0] }}</p>
+  <h4 v-if="inf[0].slice(-1) == ':'" v-html="inf[0]"></h4>
+  <p v-else-if="inf[0]!==''"><b>&bull;</b><span v-html="inf[0]"></span></p>
   <p v-else="">&nbsp;<p>
   </template>
   </div>
