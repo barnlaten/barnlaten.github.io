@@ -1,7 +1,7 @@
 ---
 layout: default	
 ---
-## Jobba på Barnlåten
+### Jobba på Barnlåten
 
 Vi som arbetar på Barnlåten är ett positivt och härligt arbetslag bestående av
 förskollärare och barnskötare. Tillsammans hjälps vi åt för att skapa en så bra
