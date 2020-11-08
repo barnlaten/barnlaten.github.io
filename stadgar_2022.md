@@ -24,7 +24,7 @@ Förskolan skall i övrigt uppfylla de krav socialstyrelsen, länsstyrelsen, kom
 organ och andra myndigheter ställer, eller kan komma att ställa, på verksamheten.
 
 Förskolan skall tillhandahålla barnomsorg i den omfattning
-i tid som gäller innom Göteborgs kommun.
+i tid som gäller inom Göteborgs kommun.
 
 #### Styrelsen säte
 
