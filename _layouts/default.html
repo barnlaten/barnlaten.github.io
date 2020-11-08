@@ -3,17 +3,7 @@
   {% include head.html %}
 <body id="page-top" class="index">
   {% include navbar.html %}
-  {% include header.html %}
-  {% for post in site.index_parts %}
   {{ content }}
-    <section {% cycle '', 'class="success"' %} id="{{ post.title }}">
-      <img src="../img/{{ post.image }}" />
-      <div class="container">
-      {{ post.content | markdownify }}
-      </div>
-    </section>
-  {% endfor %}
-  {% include footer.html %}
   {% include javascript.html %}
 </body>
 </html>                                		
