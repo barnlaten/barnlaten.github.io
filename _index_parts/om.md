@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Välkommen
 image: DSC_0660.jpg
+index: 1
 ---
 ### Välkommen till Barnlåten!
 Barnlåten är en liten, inbjudande förskola nära Ruddalen där trygghet, glädje och entusiasm står i fokus. Förskolan drivs som ett 

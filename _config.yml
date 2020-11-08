@@ -14,6 +14,11 @@ kontakt_mail: kontakt@barnlaten.se
 kontakt_telefon: 072-40 34 64
 
 styrelsen_mail: styrelsen@barnlaten.se
+
+collections:
+  index_parts:
+    sort_by: index
+
 # deployment
-host: 0.0.0.0
-port: 5000
+#host: 0.0.0.0
+#port: 5000
