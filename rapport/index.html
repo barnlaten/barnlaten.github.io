@@ -26,11 +26,15 @@
 </head>
 <body>
 <div id="rapport" class="container">
+<div style="text-align: center;">
+  {{ date }}
+</div>
 <ul class="list-group">
   <li v-for="kid in kids" class="list-group-item">
     <div class="row">
     <div class="col-md-4 col-12 p-0">
       {{ kid.name }} 
+      <button class="btn btn-outline-secondary" type="button" style="float: right;" v-on:click="radera(kid.name)">&#10060;</button>
     </div>
     <div class="input-group col-md-4 col-6 p-0">
       <div class="input-group-prepend">
@@ -59,7 +63,7 @@
   </li>
   <li class="list-group">
     <div class="input-group">
-      <input type="text" class="form-control" v-model="name">
+      <input type="text" class="form-control" v-model="name" placeholder="Barnets namn">
       <div class="input-group-append">
         <button class="btn btn-outline-secondary" type="button" v-on:click="add_kid">Lägg till</button>
       </div>
@@ -80,18 +84,36 @@ var rapport = new Vue({
       window.setInterval(this.save, 1000);
   },
   methods: {
+    radera: function(name){
+      this.kids = this.kids.filter(function(value, index, arr){ return value.name !==  name;});
+    },
     save: function(){
       myStorage = window.localStorage;
       localStorage.setItem('data', JSON.stringify(this.kids));
+      var newdate = (new Date()).toISOString().substring(0,10);
+      if(this.date !== newdate){
+        this.kids.forEach(function(kid)
+          {
+            kid.other = "";
+            kid.food = "";
+            kid.sleep = "";
+            kid.reported = false;
+          });
+	this.date = newdate;
+      }
     },
     add_kid: function(){
-      this.kids.push({"name":this.name,"other":"","food":"","sleep":"","reported":false});
-      this.name = "";
-      this.save();
+      var newname = this.name;
+      if(this.name && this.kids.filter(function(value, index, arr){ return value.name == newname;}).length == 0){
+        this.kids.push({"name":this.name,"other":"","food":"","sleep":"","reported":false});
+        this.name = "";
+        this.save();
+      }
     }
   },
   computed: {},
   data: {
+    date: "",
     name: "",
     kids: [],
   }
