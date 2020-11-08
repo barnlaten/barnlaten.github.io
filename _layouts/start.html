@@ -6,8 +6,9 @@
   {% include header.html %}
   {% for post in site.index_parts %}
   {{ content }}
-    <section {% cycle '', 'class="success"' %} id="{{ post.title }}">
+    <section {% cycle '', 'class="success"' %}>
       <img src="../img/{{ post.image }}" />
+      <a class="anchor" id="{{ post.title }}"></a>
       <div class="container">
       {{ post.content | markdownify }}
       </div>
