@@ -55,8 +55,8 @@ input[type=checkbox]
   </div>
   <div class="col-4 col-md-4 col-lg-2">
     <div class="btn-group" style="width:100%">
-      <button type="button" v-on:click="smitta=''" class="btn" v-bind:class="{'btn-outline-secondary':smitta, 'btn-primary':!smitta}">😀</button>
-      <button type="button" v-on:click="smitta='sjukdom_'" class="btn" v-bind:class="{'btn-primary':smitta, 'btn-outline-secondary':!smitta}">🤮</button>
+      <button type="button" v-if="smitta!==''" v-on:click="smitta=''" class="btn btn-primary">{{texts["sick"+lang]}}</button>
+      <button type="button" v-if="smitta!=='sjukdom_'" v-on:click="smitta='sjukdom_'" class="btn btn-outline-secondary">{{texts["sick"+lang]}}</button>
     </div>
   </div>
   <div class="col-8 col-md-8 col-lg-3">
@@ -156,8 +156,10 @@ var cleanlist = new Vue({
       "weekend_eng":"Weekend",
       "workday":"Måndag till torsdag",
       "workday_eng":"Monday to Thursday",
-      "clear":"Rensa alla kryssade bockar",
-      "clear_eng":"Clear all checked checkboxes"
+      "clear":"Rensa alla bockar",
+      "clear_eng":"Clear all checkboxes",
+      "sick":"Magsjuka",
+      "sick_eng":"Stomach flu"
       },
     lang: "",
     smitta: "",

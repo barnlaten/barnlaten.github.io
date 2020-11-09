@@ -1,0 +1,122 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Rapportering Barnlåtens föräldrakooperativ</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/icon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/icon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png">
+<link rel="manifest" href="/clean/cleanapp_v2.json">
+<meta name="msapplication-TileColor" content="#d2e8f5">
+<meta name="msapplication-TileImage" content="/icon/ms-icon-144x144.png">
+<meta name="theme-color" content="#d2e8f5">
+</head>
+<body>
+<div id="rapport" class="container">
+<div style="text-align: center;">
+  {{ date }}
+</div>
+<ul class="list-group">
+  <li v-for="kid in kids" class="list-group-item">
+    <div class="row">
+    <div class="col-md-4 col-12 p-0">
+      {{ kid.name }} 
+      <button class="btn btn-outline-secondary" type="button" style="float: right;" v-on:click="radera(kid.name)">&#10060;</button>
+    </div>
+    <div class="input-group col-md-4 col-6 p-0">
+      <div class="input-group-prepend">
+        <label class="input-group-text">Ätit</label>
+      </div>
+      <select class="custom-select" v-model="kid.food">
+        <option value="">Välj...</option>
+        <option value="1">Inget</option>
+        <option value="2">Lite</option>
+        <option value="3">Normalt/Mycket</option>
+      </select>
+    </div>
+    <div class="input-group col-md-4 col-6 p-0">
+      <div class="input-group-prepend">
+        <label class="input-group-text">Sovit</label>
+      </div>
+      <input type="number" class="form-control" v-model="kid.sleep" placeholder="minuter">
+    </div>
+    <div class="input-group col-12 p-0">
+      <div class="input-group-prepend">
+        <label class="input-group-text">Annat</label>
+      </div>
+      <textarea class="form-control" v-bind:rows="kid.other.split('\n').length" v-model="kid.other"></textarea>
+    </div>
+    </div>
+  </li>
+  <li class="list-group">
+    <div class="input-group">
+      <input type="text" class="form-control" v-model="name" placeholder="Barnets namn">
+      <div class="input-group-append">
+        <button class="btn btn-outline-secondary" type="button" v-on:click="add_kid">Lägg till</button>
+      </div>
+    </div>
+  </li>
+</ul>
+</div>
+</body>
+<script>
+var rapport = new Vue({
+  el: '#rapport',
+  created: function () {
+      myStorage = window.localStorage;
+      kids = JSON.parse(localStorage.getItem('data'));
+      if ( Array.isArray(kids) ) {
+        this.kids = kids;
+      }
+      window.setInterval(this.save, 1000);
+  },
+  methods: {
+    radera: function(name){
+      this.kids = this.kids.filter(function(value, index, arr){ return value.name !==  name;});
+    },
+    save: function(){
+      myStorage = window.localStorage;
+      localStorage.setItem('data', JSON.stringify(this.kids));
+      var newdate = (new Date()).toISOString().substring(0,10);
+      if(this.date !== newdate){
+        this.kids.forEach(function(kid)
+          {
+            kid.other = "";
+            kid.food = "";
+            kid.sleep = "";
+            kid.reported = false;
+          });
+	this.date = newdate;
+      }
+    },
+    add_kid: function(){
+      var newname = this.name;
+      if(this.name && this.kids.filter(function(value, index, arr){ return value.name == newname;}).length == 0){
+        this.kids.push({"name":this.name,"other":"","food":"","sleep":"","reported":false});
+        this.name = "";
+        this.save();
+      }
+    }
+  },
+  computed: {},
+  data: {
+    date: "",
+    name: "",
+    kids: [],
+  }
+})
+</script>
+</html>
