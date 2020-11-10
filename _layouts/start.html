@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+<body id="page-top" class="index">
+  {% include navbar.html %}
+  {% include header.html %}
+  {% for post in site.index_parts %}
+  {{ content }}
+    <section {% cycle '', 'class="success"' %}>
+      <img src="../img/{{ post.image }}" />
+      <a class="anchor" id="{{ post.title }}"></a>
+      <div class="container">
+      {{ post.content | markdownify }}
+      </div>
+    </section>
+  {% endfor %}
+  {% include footer.html %}
+  {% include javascript.html %}
+</body>
+</html>                                		

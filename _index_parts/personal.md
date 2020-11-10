@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Personal
 image: DSC_0669.jpg
+index: 5
 ---
 ### Personal
 Personalen är Barnlåtens största tillgång. Tillsammans med barnen skapar de en varm och utvecklande miljö där både barn 
