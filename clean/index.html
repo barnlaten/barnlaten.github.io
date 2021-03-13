@@ -36,11 +36,25 @@ input[type=checkbox]
   padding: 10px;
   margin: 10px;
 }
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+    .info_box {
+        page-break-before: always;
+    }
+    .page-break
+    {
+        page-break-inside: avoid;
+    }
+}
 </style>
 </head>
 <body>
 <div id="cleanlist" class="container">
-<div class="row">
+<div class="row no-print">
   <div class="col-12 col-md-4 col-lg-3">
     <div class="btn-group" style="width:100%">
       <button type="button" v-on:click="lang=''" class="btn" v-bind:class="sve_class">Svenska</button>
@@ -63,16 +77,19 @@ input[type=checkbox]
     <button class="btn btn-outline-secondary btn-block" type="button" v-on:click="uncheck">{{texts["clear"+lang]}}</button>
   </div>
 </div>
-<ul class="list-group">
-  <li v-for="task in tasks" class="list-group-item list-group-item-info">
+<ul class="list-group" style="display: block;">
+  <li class="list-group-item list-group-item-dark">
+    <h1>{{texts[selected+lang]}} {{texts[smitta+lang]}}</h1>
+  </li>
+  <li v-for="task in tasks" class="list-group-item list-group-item-info page-break">
     <template  v-if="task[1].substr(task[1].length - 1)=='X'" >
     <label><input type="checkbox"> <b>{{ task[0] }}. {{ task[1].substr(0, task[1].length - 1)}}</b></label>
     </template>
     <template v-else="">
     <b>{{ task[0] }}. {{ task[1] }}</b>
     </template>
-    <ul class="list-group">
-      <li v-if="stask" v-for="stask in task[2]" class="list-group-item list-group-item-dark">
+    <ul class="list-group page-break">
+      <li v-if="stask" v-for="stask in task[2]" class="list-group-item list-group-item-dark page-break">
         <template  v-if="stask.substr(stask.length - 1)=='X'" >
         <label><input type="checkbox"> <span v-html="stask.substr(0, stask.length - 1)"></span></label>
         </template>
@@ -81,7 +98,7 @@ input[type=checkbox]
     </ul>
   </li>
 </ul>
-<div class="card bg-light">
+<div class="card bg-light" v-bind:class="show_info">
   <div class="card-header">Info</div>
   <div class="card-body">
   <template v-for="inf in todos['info'+lang]">
@@ -118,6 +135,12 @@ var cleanlist = new Vue({
    }
   },
   computed: {
+    show_info: function(){
+      if(this.selected == "vardag" && this.smitta == ""){
+        return "info_box"
+      }
+      return "no-print"
+    },
     tasks: function(){
       return this.todos[this.smitta+this.selected+this.lang].map(this.sublist)
     },
@@ -152,6 +175,12 @@ var cleanlist = new Vue({
   },
   data: {
     texts: {
+      "vardag":"Måndag till torsdag",
+      "vardag_eng":"Monday to Thursday",
+      "helg":"Helg",
+      "helg_eng":"Weekend",
+      "sjukdom_":" vid magsjuka",
+      "sjukdom__eng":" during stomach flu",
       "weekend":"Helg",
       "weekend_eng":"Weekend",
       "workday":"Måndag till torsdag",
