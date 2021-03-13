@@ -14,4 +14,3 @@ Barnlåten har en styrelse som tillsätts av föräldrarna. Utöver detta finns 
 som också innehas av föräldrar. Varje familj har 2-5 städveckor per år. Föreningsmöten (3-4 ggr / år) och gemensamma 
 städdagar (2 ggr/år) är tillfällen då alla föräldrar träffas och hjälps åt.
 
-* [Detta är barnlåten](https://drive.google.com/file/d/0B7D791XCaNNsN3RpMjQ4eDBDekE/view?usp=sharing)
