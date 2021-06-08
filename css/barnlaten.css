@@ -66,7 +66,7 @@ section {
 
 section.success {
     background: #d1e8f6;
-    color: #2a79a9;
+    color: #14557e;
 }
 
 section.map {
@@ -81,9 +81,17 @@ a.active {
   color: #2a79a9;
 }
 
-footer .footer-above {
+section.success a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+  color: #2a79a9;
+}
+
+div .footer-above {
     background-color: #d1e8f6;
-    color: #2a79a9;
+    color: #14557e;
 }
 
 footer .footer-below {
