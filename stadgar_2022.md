@@ -68,12 +68,12 @@ av föreningens ändamål.
 Medlem är vidare skyldig att betala stadgeenliga och av föreningsstämman
 fastställda insatser och avgifter, i enlighet med Göteborgs stads maxtaxa.
 
-#### § 7 Insats
+#### § 7 Insats och avgift
 
 Medlem skall deltaga i föreningen med ett insatsbelopp om 50 kronor, dock högst
 100 kronor per familj. Insatsen erlägges inom två (2) veckor efter att medlemskap
-beviljats. Insatsen återbetalas i enlighet med vad som föreskrivs i ***4 kap 1
-paragrafen lagen om ekonomiska föreningar***.
+beviljats. Insatsen återbetalas i enlighet med vad som föreskrivs i Lag (2018:672) 
+om ekonomiska föreningar 10 kap. 11§.
 
 För utnyttjande av föreningens tjänster skall medlemmarna erlägga månadsavgift.
 Månadsavgifter beräknas per barn och skall vara satta i förhållande till förskolans
@@ -154,11 +154,11 @@ Styrelsen skall senast den 30 april till föreningens revisor avge
 årsredovisningshandlingar.
 
 Styrelsen skall senast den 30 april till föreningens valberedning avge
-styrelseprotokoll och eventuell annan relevant dokumentation.
+styrelseprotokoll och eventuell annan relevant dokumentation, som rör det avslutade 
+räkenskapsåret.
 
-valberedning avge
-styrelseprotokoll och eventuell annan relevant dokumentation. skall senast två veckor före ordinarie föreningsstämma till styrelsen
-överlämna sin revisionsberättelse.
+Valberedningen skall senast tre veckor före ordinarie föreningsstämma till revisorn
+överlämna resultatet av sin granskning.
 
 Revisorn skall senast två veckor före ordinarie föreningsstämma till styrelsen
 överlämna sin revisionsberättelse.
@@ -182,7 +182,8 @@ Vid ordinarie föreningsstämma skall följande ärenden förekomma till behandl
 11. barnomsorgsavgifter/månadsavgifter
 12. val av styrelsens ordförande jämte övriga styrelseledamöter
 13. val av revisor
-14. eventuella övriga frågor
+14. val av valberedning
+15. eventuella övriga frågor
 
 Ärende, som medlem önskar hänskjuta till ordinarie föreningsstämma skall
 skriftligen anmälas till styrelsen senast en månad före stämman. För stämmans
@@ -232,9 +233,10 @@ stämmor.
 
 #### § 20 Stadgeändring
 
-För ändring av stadgarna gäller vad som föreskrivs i 7 kap 14 paragrafen och 15
-paragrafen lagen om ekonomiska föreningar.
+två tredjedelar av de som röstar säger ja. 
 
-Uppdaterad 2018-07-04
+I kallelsen till föreningsstämman ska det huvudsakliga innehållet av förslaget till ändring anges. 
+Det enda fungerande sättet att uppfylla detta krav är att stadgeförslaget i sin 
+helhet bifogas med kallelsen till medlemmarna.
 
-(Lagen 2018:672: Ett beslut om ändring av stadgarna fattas av föreningsstämman.)
+Uppdaterad YYYY-MM-DD
