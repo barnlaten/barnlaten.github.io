@@ -99,10 +99,9 @@ omedelbart sin rätt i angivna hänseenden.
 
 #### § 9  Medlems avgång
 
-***Utom i fall som avses i 7 kap 15 paragrafen tredje stycket (vissa stadgeändringar)
-och 12 kap 4 paragrafen andra stycket (fusion) lagen om ekonomiska föreningar,
+Utom i fall som avses i 7 § 3 kap. (Föreningens stadgar) och 27 § 16 kap. (Fusion) i lag (2018:672),
 äger avgång ur föreningen rum 3 månader efter det att medlem sagt upp sig till
-utträde, uteslutits eller annan omständighet som föranlett att avgången inträffat.***
+utträde, uteslutits eller annan omständighet som föranlett att avgången inträffat.
 
 #### § 10 Styrelse
 
@@ -129,9 +128,8 @@ dess ordinarie föreningsstämma hålles räkenskapsåret efter valet.
 Valberedningen skall bestå av en (1) eller två (2) valberedare.
 
 Valberedningen föreslår till föreningsstämma:
-1. Antal ledamöter i styrelsen.
-2. Ordförande
-3. Ledarmöter
+1. Styrelsens ordförande
+2. Styrelsens ledarmöter
 4. Revisor
 
 Valberedningen granskar också styrelsens arbete och rapporterar resultatet av granskingen
@@ -169,6 +167,7 @@ Ordinarie föreningsstämma skall hållas före juni månads utgång.
 Vid ordinarie föreningsstämma skall följande ärenden förekomma till behandling:
 
 1. val av ordförande vid stämman
+2. val av sekreterare vid stämman 
 2. justering av röstlängd
 3. val av justeringsman
 4. frågan om stämman blivit i stadgeenlig ordning utlyst
@@ -176,18 +175,18 @@ Vid ordinarie föreningsstämma skall följande ärenden förekomma till behandl
 6. fastställande av resultaträkning och balansräkning samt beslut i anledning av
 årets vinst eller förlust
 7. fråga om ansvarsfrihet för styrelsen
-8. eventuella arvoden till styrelseledamöter och revisorn
+8. eventuella arvoden till styrelseledamöter, valberedare och revisorn
 9. budget
 10. årsavgifter
 11. barnomsorgsavgifter/månadsavgifter
 12. val av styrelsens ordförande jämte övriga styrelseledamöter
 13. val av revisor
 14. val av valberedning
-15. eventuella övriga frågor
+15. övriga till stämman hänskjuta frågor
 
 Ärende, som medlem önskar hänskjuta till ordinarie föreningsstämma skall
 skriftligen anmälas till styrelsen senast en månad före stämman. För stämmans
-provning av uteslutningsbeslut gäller dock bestämmelsen i paragraf 8 andra
+provning av uteslutningsbeslut gäller dock bestämmelsen i § 8 andra
 stycket.
 
 #### § 16 Extra föreningsstämma
@@ -215,7 +214,7 @@ och/eller meddelas via e-post.
 
 #### § 18 Överskottsfördelning
 
-18 Fritt eget kapital enligt fastställd balansräkning skall, sedan avsättning till
+Fritt eget kapital enligt fastställd balansräkning skall, sedan avsättning till
 reservfond skett, föras i ny räkning såvida föreningsstämman inte beslutar att
 återbäring skall ges i förhållande till under räkenskapsåret erlagda
 barnomsorgsavgifter. Beslut om återbäring ska tas vid en extra föreningsstämma i
@@ -233,10 +232,9 @@ stämmor.
 
 #### § 20 Stadgeändring
 
-två tredjedelar av de som röstar säger ja. 
-
-I kallelsen till föreningsstämman ska det huvudsakliga innehållet av förslaget till ändring anges. 
-Det enda fungerande sättet att uppfylla detta krav är att stadgeförslaget i sin 
-helhet bifogas med kallelsen till medlemmarna.
+För ändring av dessa stadgar krävs beslut på två på varandra följande stämmor,
+med minst en månads mellanrum, med minst 2/3 av antalet avgivna röster,
+eller ett enhälligt beslut på ordinarie föreningsstämma där minst 90% av föreningens medlemmar deltar.
+Till stämma där beslut om stadgeändring skall tas skall stadgeförslaget i sin helhet bifogas med kallelsen till medlemmarna.
 
 Uppdaterad YYYY-MM-DD
