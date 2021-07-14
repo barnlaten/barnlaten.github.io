@@ -4,13 +4,13 @@ layout: default
 
 ### Stadgar
 
-#### § 1 Firma
+#### Firma
 
-Föreningens firma är föräldrakooperativet, Barnlåten, ek. för.
+1 § Föreningens firma är föräldrakooperativet, Barnlåten, ek. för.
 
-#### § 2 Ändamål
+#### Ändamål
 
-Föreningen har till ändamål att främja medlemmarnas intressen för barnomsorg
+2 § Föreningen har till ändamål att främja medlemmarnas intressen för barnomsorg
 genom att driva en föräldrakooperativ förskola för medlemmarnas barn. Föreningen
 skall verka för en kvalitativ och stimulerande barngruppsverksamhet och
 förskolemiljö, i enlighet med skollagen, som ett komplement till barnens hemmiljö
@@ -23,13 +23,13 @@ ansvara för och leda denna verksamhet.
 Förskolan skall i övrigt uppfylla de krav socialstyrelsen, länsstyrelsen, kommunala
 organ och andra myndigheter ställer, eller kan komma att ställa, på verksamheten.
 
-#### § 3 Styrelsen säte
+#### Styrelsen säte
 
-Styrelsen har sitt säte i Västra Frölunda, Göteborgs kommun, Västra Götalands län.
+3 § Styrelsen har sitt säte i Västra Frölunda, Göteborgs kommun, Västra Götalands län.
 
-#### § 4 Intagning
+#### Intagning
 
-Intresseanmälan till föreningens förskola lämnas till rektorn. Ansökan skall
+4 § Intresseanmälan till föreningens förskola lämnas till rektorn. Ansökan skall
 lämnas in skriftigt via aktuell blankett som finns på föreningens hemsida,
 www.barnlaten.se .
 
@@ -53,24 +53,24 @@ För tilldelad plats skall avgift erläggas i enlighet med paragraf 7.
 Uppsägning av tilldelad plats i föreningens förskola skall ske skriftligt minst 3
 månader i förväg.
 
-#### § 5 Medlemsantagande
+#### Medlemsantagande
 
-Till medlem antas vårdnadshavare till barn som enligt rektorns, styrelsens
+5 § Till medlem antas vårdnadshavare till barn som enligt rektorns, styrelsens
 eller föreningsstämmans beslut om intagning tilldelats plats i föreningens förskola.
 Förälder som är anställd av kooperativet äger ej rösträtt i frågor som rör personal,
 detta gäller även anställds maka, make eller jämställd.
 
-#### § 6 Medlemsåligganden
+#### Medlemsåligganden
 
-Sökande väntas följa föreningens stadgar och beslut samt bidra till förverkligandet
+6 § Sökande väntas följa föreningens stadgar och beslut samt bidra till förverkligandet
 av föreningens ändamål.
 
 Medlem är vidare skyldig att betala stadgeenliga och av föreningsstämman
 fastställda insatser och avgifter, i enlighet med Göteborgs stads maxtaxa.
 
-#### § 7 Insats och avgift
+#### Insats och avgift
 
-Medlem skall deltaga i föreningen med ett insatsbelopp om 50 kronor, dock högst
+7 § Medlem skall deltaga i föreningen med ett insatsbelopp om 50 kronor, dock högst
 100 kronor per familj. Insatsen erlägges inom två (2) veckor efter att medlemskap
 beviljats. Insatsen återbetalas i enlighet med vad som föreskrivs i Lag (2018:672) 
 om ekonomiska föreningar 10 kap. 11§.
@@ -80,9 +80,9 @@ Månadsavgifter beräknas per barn och skall vara satta i förhållande till fö
 budget. Avgifterna måste därutöver följa reglerna för Göteborg Stads maxtaxa.
 Månadsavgiften skall erläggas månadsvis i förskott.
 
-#### § 8 Uppsägning och uteslutning
+#### Uppsägning och uteslutning
 
-Uppsägning av medlemskapet: Önskan om utträde ur föreningen skall göras
+8 § Uppsägning av medlemskapet: Önskan om utträde ur föreningen skall göras
 skriftligen till styrelsen. Uppsägningstiden är tre månader, om barnet slutar tidigare
 skall månadsavgift fortfarande betalas in under tre månader från uppsägningdatum.
 
@@ -97,15 +97,15 @@ i överläggningar och beslut om föreningens angelägenheter när denne inte l�
 har barn med plats i föreningens barnomsorg. Medlem som uteslutits förlorar
 omedelbart sin rätt i angivna hänseenden.
 
-#### § 9  Medlems avgång
+#### Medlems avgång
 
-Utom i fall som avses i 7 § 3 kap. (Föreningens stadgar) och 27 § 16 kap. (Fusion) i lag (2018:672),
+9 § Utom i fall som avses i 7 § 3 kap. (Föreningens stadgar) och 27 § 16 kap. (Fusion) i lag (2018:672),
 äger avgång ur föreningen rum 3 månader efter det att medlem sagt upp sig till
 utträde, uteslutits eller annan omständighet som föranlett att avgången inträffat.
 
-#### § 10 Styrelse
+#### Styrelse
 
-Styrelsen skall bestå av lägst 5 och högst 7 ledamöter.
+10 § Styrelsen skall bestå av lägst 5 och högst 7 ledamöter.
 Föreningsstämman utser ordförande i styrelsen.
 
 Styrelsen är beslutsmässig om mer an hälften av styrelsen ar närvarande.
@@ -116,14 +116,14 @@ Styrelseledamot utses för tiden till dess att ordinarie föreningsstämma håll
 påföljande räkenskapsår. Vid de fall då styrelseledamot säger upp sitt medlemskap
 under pågående år, ska extra föreningsstämma hållas för att välja ny styrelseledamot.
 
-#### § 11 Revisorer
+#### Revisorer
 
-På ordinarie föreningsstämma skall årligen väljas 1 revisor för tiden intill dess
+11 § På ordinarie föreningsstämma skall årligen väljas 1 revisor för tiden intill dess
 ordinarie föreningsstämma hålles räkenskapsåret efter valet.
 
-#### § 11 Valberedning
+#### Valberedning
 
-På ordinarie föreningsstämma skall årligen väljas en valberedning för tiden intill 
+12 § På ordinarie föreningsstämma skall årligen väljas en valberedning för tiden intill 
 dess ordinarie föreningsstämma hålles räkenskapsåret efter valet.
 Valberedningen skall bestå av en (1) eller två (2) valberedare.
 
@@ -136,19 +136,19 @@ Valberedningen granskar också styrelsens arbete och rapporterar resultatet av g
 till ordinarie föreningsstämma. Valberedningen har rätt att delta på styrelsemöten och
 få tillgång till styrelseprotokoll och annan relevant dokumentation.
 
-#### § 12 Firmatecknare
+#### Firmatecknare
 
-Föreningens firma tecknas av två ur styrelsen alternativt en styrelsemedlem och
+13 § Föreningens firma tecknas av två ur styrelsen alternativt en styrelsemedlem och
 rektorn. Utlägg utöver löpande kostnader får inte överskrida 20 000 kr per
 månad utan beslut från styrelsen.
 
-#### § 13 Räkenskapsår
+#### Räkenskapsår
 
-Föreningens räkenskapsår är lika med kalenderåret.
+14 § Föreningens räkenskapsår är lika med kalenderåret.
 
-#### § 14 Årsredovisning
+#### Årsredovisning
 
-Styrelsen skall senast den 30 april till föreningens revisor avge
+15 § Styrelsen skall senast den 30 april till föreningens revisor avge
 årsredovisningshandlingar.
 
 Styrelsen skall senast den 30 april till föreningens valberedning avge
@@ -161,9 +161,9 @@ Valberedningen skall senast tre veckor före ordinarie föreningsstämma till re
 Revisorn skall senast två veckor före ordinarie föreningsstämma till styrelsen
 överlämna sin revisionsberättelse.
 
-#### § 15 Ordinarie föreningsstämma
+#### Ordinarie föreningsstämma
 
-Ordinarie föreningsstämma skall hållas före juni månads utgång.
+16 § Ordinarie föreningsstämma skall hållas före juni månads utgång.
 Vid ordinarie föreningsstämma skall följande ärenden förekomma till behandling:
 
 1. val av ordförande vid stämman
@@ -189,9 +189,9 @@ skriftligen anmälas till styrelsen senast en månad före stämman. För stämm
 provning av uteslutningsbeslut gäller dock bestämmelsen i § 8 andra
 stycket.
 
-#### § 16 Extra föreningsstämma
+#### Extra föreningsstämma
 
-Extra föreningsstämma skall hållas vid de tillfällen och för de ändamål
+17 § Extra föreningsstämma skall hållas vid de tillfällen och för de ändamål
 föreningsstämman i förväg beslutat och i övrigt av styrelsen utlysas då styrelsen så
 finner nödvändigt eller då det för uppgivet ändamål påfordras av en revisor eller
 minst en tiondel (1/10) av föreningens medlemmar.
@@ -199,9 +199,9 @@ minst en tiondel (1/10) av föreningens medlemmar.
 Kallelse skall utfärdas inom fjorton (14) dagar från det styrelsen erhåller begäran
 enligt första stycket.
 
-#### § 17 Kallelse till stämma
+#### Kallelse till stämma
 
-Kallelse till stämma sker skriftligen per e-post samt genom anslag på föreningens
+18 § Kallelse till stämma sker skriftligen per e-post samt genom anslag på föreningens
 anslagstavla.
 
 Kallelse skall vara utsänd och anslagen tidigast fyra veckor före samt senast två
@@ -212,27 +212,27 @@ e-post underrätta revisorerna därom.
 Övriga meddelande till medlemmarna skall anslås på föreningens anslagstavla
 och/eller meddelas via e-post.
 
-#### § 18 Överskottsfördelning
+#### Överskottsfördelning
 
-Fritt eget kapital enligt fastställd balansräkning skall, sedan avsättning till
+19 § Fritt eget kapital enligt fastställd balansräkning skall, sedan avsättning till
 reservfond skett, föras i ny räkning såvida föreningsstämman inte beslutar att
 återbäring skall ges i förhållande till under räkenskapsåret erlagda
 barnomsorgsavgifter. Beslut om återbäring ska tas vid en extra föreningsstämma i
 början av december om det preliminära bokslutet i slutet av november månad visar
 på ett överskott för året.
 
-#### § 19 Upplösning
+#### Upplösning
 
-Vid föreningens upplösning skall föreningens behållna tillgångar delas lika mellan
+20 § Vid föreningens upplösning skall föreningens behållna tillgångar delas lika mellan
 medlemmarna. Därvid skall medlemmarna först återfå inbetalda insatser.
 Upplösning av föreningen beslutas endera med enhälligt beslut av samtliga
 röstberättigande på en extra eller ordinarie föreningsstämma eller med enkel
 respektive två tredjedels majoritet av de röstande på två på varandra följande
 stämmor.
 
-#### § 20 Stadgeändring
+#### Stadgeändring
 
-För ändring av dessa stadgar krävs beslut på två på varandra följande stämmor,
+21 § För ändring av dessa stadgar krävs beslut på två på varandra följande stämmor,
 med minst en månads mellanrum, med minst 2/3 av antalet avgivna röster,
 eller ett enhälligt beslut på ordinarie föreningsstämma där minst 90% av föreningens medlemmar deltar.
 Till stämma där beslut om stadgeändring skall tas skall stadgeförslaget i sin helhet bifogas med kallelsen till medlemmarna.
