@@ -2,7 +2,7 @@
 layout: default	
 ---
 
-### Stadgar
+### Stadgar (Förslag till nya stadagar)
 
 #### Firma
 
@@ -22,6 +22,9 @@ ansvara för och leda denna verksamhet.
 
 Förskolan skall i övrigt uppfylla de krav socialstyrelsen, länsstyrelsen, kommunala
 organ och andra myndigheter ställer, eller kan komma att ställa, på verksamheten.
+
+Förskolan skall tillhandahålla barnomsorg i den omfattning
+i tid som gäller innom Göteborgs kommun.
 
 #### Styrelsen säte
 
@@ -237,4 +240,4 @@ med minst en månads mellanrum, med minst 2/3 av antalet avgivna röster,
 eller ett enhälligt beslut på ordinarie föreningsstämma där minst 90% av föreningens medlemmar deltar.
 Till stämma där beslut om stadgeändring skall tas skall stadgeförslaget i sin helhet bifogas med kallelsen till medlemmarna.
 
-Uppdaterad YYYY-MM-DD
+Dessa stadgar är antagna vid stämman YYYY-MM-DD.
