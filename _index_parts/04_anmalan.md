@@ -15,6 +15,10 @@ Våra urvalsgrunder vid intagning av barn är:
 Inskolning sker under hela året, men vanligast är under höstterminen då de äldsta barnen lämnar boet.
 
 Följande blanketter ska fyllas i och skickas till Barnlåten vid ansökan om plats:
-* [Intresseanmälan](https://docs.google.com/viewer?a=v&pid=sites&srcid=YmFybmxhdGVuLnNlfHdlYmJ8Z3g6NjZlNTliZDViZjY2Mjg1Nw)
+* [Intresseanmälan](/docs/barnlatenansokan.docx)
 * [Familje- och inkomstredovisning](https://goteborg.se/wps/wcm/connect/701b1f95-96d7-420f-aac9-305559aef583/Familje-+och+inkomstredovisning.pdf?MOD=AJPERES)
 * [Schema](docs/schema.pdf)
+
+Uppsägning:
+* [Uppsägningsblankett och instruktion](/docs/barnlatenavslut.docx)
+
