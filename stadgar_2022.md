@@ -178,7 +178,7 @@ Vid ordinarie föreningsstämma skall följande ärenden förekomma till behandl
 6. fastställande av resultaträkning och balansräkning samt beslut i anledning av
 årets vinst eller förlust
 7. fråga om ansvarsfrihet för styrelsen
-8. eventuella arvoden till styrelseledamöter, valberedare och revisorn
+8. eventuella arvoden till styrelseledamöter, valberedare och revisorn, så som till exempel reducerat antal städdagar.
 9. budget
 10. årsavgifter
 11. barnomsorgsavgifter/månadsavgifter
