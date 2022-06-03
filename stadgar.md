@@ -240,4 +240,4 @@ med minst en månads mellanrum, med minst 2/3 av antalet avgivna röster,
 eller ett enhälligt beslut på ordinarie föreningsstämma där minst 90% av föreningens medlemmar deltar.
 Till stämma där beslut om stadgeändring skall tas skall stadgeförslaget i sin helhet bifogas med kallelsen till medlemmarna.
 
-Dessa stadgar är antagna vid stämman YYYY-MM-DD.
+Dessa stadgar är antagna vid stämman 2022-06-01.
