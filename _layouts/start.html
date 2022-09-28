@@ -6,9 +6,9 @@
   {% include header.html %}
   {% for post in site.index_parts %}
   {{ content }}
-  <section>
+  <!--<section>
     <img src="../img/ledigaplatser.jpg" />
-  </section>
+  </section>-->
   <section {% cycle '', 'class="success"' %}>
     <img src="../img/{{ post.image }}" />
     <a class="anchor" id="{{ post.title }}"></a>
