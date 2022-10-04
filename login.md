@@ -12,7 +12,7 @@ layout: default
   * [Fylla i](https://forms.barnlaten.se)
   * [Skapa](https://forms.barnlaten.se/admin) 
 * Ekonomi - Bokföring
-  * [Wint](https://superkoll.wint.se>)
+  * [Wint](https://superkoll.wint.se)
 * Bank
   * [Nordea](https://nordera.se)
 * Verksamhets app
