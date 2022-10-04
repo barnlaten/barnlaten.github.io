@@ -1,21 +1,24 @@
-
-
+---
+layout: default	
+---
+### IT-Tjänster
 * E-Post
-  * <https://mail.barnlaten.se>
+  * [Webmail](https://mail.barnlaten.se)
 * Fillagring
-  * <https://filer.barnlaten.se>
+  * [Filer](https://filer.barnlaten.se)
 * Städinstruktioner
-  * <https://barnlaten.se/clean>
+  * [För föräldrar](https://barnlaten.se/clean)
 * Enkäter
-  * <https://forms.barnlaten.se> (Fylla i)
-  * <https://forms.barnlaten.se/admin> (Skapa)
+  * [Fylla i](https://forms.barnlaten.se)
+  * [Skapa](https://forms.barnlaten.se/admin) 
 * Ekonomi - Bokföring
-  * <https://superkoll.wint.se>
+  * [Wint](https://superkoll.wint.se>)
 * Bank
-  * <https://nordera.se>
+  * [Nordea](https://nordera.se)
 * Verksamhets app
   * Ladda ner för [iOS](https://apps.apple.com/se/app/tyra-f%C3%B6rskoleappen/id1040888794)
   * Ladda ner för [Android](https://play.google.com/store/apps/details?id=se.bayou.android.tyra)
   * Weblogin [för personal](https://login.tyra.io)
-* Servertjänst
-  * <https://inleed.se>
+* Servertjänster
+  * [Inleed](https://login.inleed.net)
+  * [Github](https://github.com/barnlaten)
