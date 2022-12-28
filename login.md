@@ -30,7 +30,7 @@ layout: default
   </li>
   <li class="list-group-item">Servertjänster<br>
       <a href="https://login.inleed.net">Inleed</a><br>
-      <a href="https://github.com/barnlaten">Github</a>s
+      <a href="https://github.com/barnlaten">Github</a>
   </li>
 </ul>
 
