@@ -25,5 +25,6 @@ När barnet fått plats så ska följande dokument fyllas i:
 Uppsägning:
 * [Uppsägningsblankett och instruktion](/docs/barnlatenavslut.docx)
 
-Information om vilka personuppgifter vi behandlar och varför finns i vårt [informationsdokument om personuppgifter](docs/Information_om_personuppgifter.pdf).
+Information om vilka personuppgifter vi behandlar och varför finns i vårt [informationsdokument om personuppgifter](docs/Information_om_personuppgifter.
 
+Information om att vara medlem finns i [Detta är Barnlåten.pdf](docs/Detta är Barnlåten.pdf).
