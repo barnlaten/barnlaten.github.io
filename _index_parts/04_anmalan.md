@@ -26,6 +26,6 @@ Uppsägning:
 * [Uppsägningsblankett och instruktion](/docs/barnlatenavslut.docx)
 * [Blankett för återbetalning av avgift](/docs/Aterbetalning.docx)
 
-Information om vilka personuppgifter vi behandlar och varför finns i vårt [informationsdokument om personuppgifter](docs/Information_om_personuppgifter.
+Information om vilka personuppgifter vi behandlar och varför finns i vårt [informationsdokument om personuppgifter](docs/Information_om_personuppgifter.pdf).
 
 Information om att vara medlem finns i [Detta är Barnlåten.pdf](docs/Detta är Barnlåten.pdf).
