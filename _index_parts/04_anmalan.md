@@ -22,6 +22,9 @@ När barnet fått plats så ska följande dokument fyllas i:
 * [Familje- och inkomstredovisning](https://goteborg.se/wps/wcm/connect/701b1f95-96d7-420f-aac9-305559aef583/Familje-+och+inkomstredovisning.pdf?MOD=AJPERES)
 * [Schema](docs/schema.pdf)
 
+Övriga blanketter:
+* [Utökad vistelsetid](docs/Ansökan_om_utökad_vistelsetid.docx)
+
 Uppsägning:
 * [Uppsägningsblankett och instruktion](/docs/barnlatenavslut.docx)
 * [Blankett för återbetalning av avgift](/docs/Aterbetalning.docx)
