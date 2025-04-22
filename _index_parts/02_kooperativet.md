@@ -4,6 +4,7 @@ image: DSC_0674.jpg
 index: 3
 ---
 ### Hur fungerar föräldrakooperativet? 
+#### Föräldrars Roll:
 För en föräldrakooperativ förskola är föräldrarnas aktiva medverkan central.
 På Barnlåten ska vi föräldrar se till att personalen får förutsättningarna
 för att kunna göra ett bra arbete. Som förälder så får du en fantastisk 
