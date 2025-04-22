@@ -4,6 +4,7 @@ image: DSC_0653.jpg
 index: 4
 ---
 ### Pedagogik
+#### Pedagogernas Roll:
 Förskolan är det första steget i vårt utbildningssystem.
 I förskolan ska vi utgå från att varje barn vill erövra omvärlden.
 Vår uppgift som pedagoger är att leda och stödja barnen i deras upptäckter i 
@@ -30,8 +31,7 @@ Vi arbetar med olika teman och projekt under läsåret.
 Teman väljs utifrån barns intresse och behov.
 Temaundervisningen sker i smågrupper för att bättre
 kunna ge utrymme för varje barns upptäckande och
-tankar. En gång i veckan gör vi utflykt i vårt
-närområde, så som till skogen eller till en lekplats.
+tankar.
 
 Vi som arbetar på Barnlåten har olika bakgrund,
 utbildning och personlighet. Detta ser vi som en
