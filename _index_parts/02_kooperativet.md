@@ -1,6 +1,6 @@
 ---
 title: Kooperativet
-image: DSC_0674.jpg
+image: Blommor.jpeg
 index: 3
 ---
 ### Hur fungerar föräldrakooperativet? 
