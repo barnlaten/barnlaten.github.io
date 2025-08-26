@@ -2,7 +2,7 @@
 layout: default	
 ---
 
-### Stadgar (Förslag till nya stadagar)
+### Stadgar 
 
 #### Firma
 
