@@ -47,6 +47,7 @@ Dry:
 
 ### 6. Trash cans
 [$] Empty the trash cans on the toilets and throw in the garbage room, they can be found to the right of the entrance door through which you entered the house.
+
 [$] Put in a new trash bag. New trash bags are found in the cupboard next to the washing machine.
 
 ### 7. Handles and light switches
@@ -88,7 +89,9 @@ Dry:
 
 ### 18. Vacuum cleaning
 [$] Vacuum clean all floors, sofas, carpets and large mattresses. (If weather permits, air them.)
+
 [$] If you want, air the rooms during vacuum cleaning but make sure to close all windows afterwards.
+
 [$] Vacuum clean the floor in the office.
 
 **NOTE! It is important that the vacuuming is done after drying the roof pipes, lamps, cabinets etc.**
@@ -111,7 +114,9 @@ Dry:
 ### Last notes
 
 [$] Take down all chairs from the tables, close the windows and close all doors with the upper handle.
+
 [$] Do not forget to remove the mops and cloths from the dryer, fold and place them in the cabinets.
+
 [$] Make sure you turn on the alarm system before leaving!
 
 
