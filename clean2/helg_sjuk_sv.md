@@ -1,4 +1,4 @@
-# Städlista – Helg vid magsjuka
+## Städlista – Helg vid magsjuka
 
 - [ ] **1. Stryk ditt barns namn på dagens datum på städlistan.**
 
