@@ -1,13 +1,13 @@
 ## Cleaning list – Weekdays
 
-[$] 1. Cross off your children´s name on the cleaning schedule on the drying cabinet.**
+[$] Cross off your children´s name on the cleaning schedule on the drying cabinet.
 
-### 2. Dishwashing
+### 1. Dishwashing
 [$] Check if there are unwashed dishes on the kitchen counter or in the sink.
 
 [$] Place any unwashed dishes in the dishwasher.
 
-### 3. Mirrors
+### 2. Mirrors
 [$] Clean all mirrors with a blue microfiber cloth moisten with some water. 
 
 Mirrors can be found:
@@ -16,7 +16,7 @@ Mirrors can be found:
 * in the green room,
 * and in the laundry room
 
-### 4. Toilets
+### 3. Toilets
 [$] Take a pink microfiber cloth and moist it with water. 
 
 Dry:
@@ -36,7 +36,7 @@ Dry:
   
   OBS! One pink cloth per toilet! Do not use the same cloth twice.
 
-### 4.1 Staff Toilet
+### 4 Staff Toilet
 
 [$] Take a pink microfiber cloth and dampen it with water. Use the cloth to wipe door handles, the door, light switch, mirror, toilet paper holder, sanitary bag holder, and both the top and underside of the sink. Then use the same cloth to clean the toilet, both outside and inside.
 
