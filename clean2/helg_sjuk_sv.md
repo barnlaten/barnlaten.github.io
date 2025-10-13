@@ -45,6 +45,14 @@ Speglar finns:
   
   OBS! En rosa trasa per toalett, använd ej samma!
 
+### 5.1 Personaltoalett
+
+[$] Ta en rosa mikrofibertrasa och fukta med vatten. Använd trasan för att torka av dörrhandtag, dörr, lampknapp spegel, toalettpappershållare, sanitetspåshållaren samt både ovansidan och undersidan av handfatet. Använd sedan samma trasa för att tvätta toalettstolen utvändigt och invändigt.
+
+[$] Ytdesinficera sedan allt enligt ovan med Virkon **på pappershandduk**. Låt ytan självtorka (10 minuter). Eftertorka vid behov med fuktat papper eftersom Virkon efterlämnar ett fint damm som på blanka ytor behöver avtorkas, tex. handtag, kran och toalettpappershållare.
+
+[$] Vid lukt, häll några droppar såpa i toalettstolen. Använd sedan Toalettborsten som finns i nedre skåpet vid skötbordet.
+
 ### 6. Papperskorgar
 [$] Töm papperskorgarna på toaletterna och släng i soprummet, nyckeln finns till höger på dörrkarmen innanför entrédörren som ni kom in i.
 

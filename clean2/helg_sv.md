@@ -42,6 +42,14 @@ Speglar finns:
 [$]  Ytdesinficera sedan allt enligt ovan med ytdesinfection **på pappershandduk**.
 
 [$]  Vid lukt häll några droppar såpa i toalettstolen. Toalettborste finns i skåpet vid skötbordet.
+
+### 3.1 Personaltoalett
+
+[$] Ta en rosa mikrofibertrasa och fukta med vatten. Använd trasan för att torka av dörrhandtag, dörr, lampknapp spegel, toalettpappershållare, sanitetspåshållaren samt både ovansidan och undersidan av handfatet. Använd sedan samma trasa för att tvätta toalettstolen utvändigt och invändigt.
+
+[$] Ytdesinfecera sedan allt enligt ovanstående med ytdesinfection på pappershanduk.
+
+[$] Vid lukt, häll några droppar såpa i toalettstolen. Använd sedan Toalettborsten som finns i nedre skåpet vid skötbordet.
   
 **OBS! En rosa trasa per toalett, använd ej samma!**
 

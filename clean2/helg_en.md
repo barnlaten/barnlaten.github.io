@@ -45,6 +45,14 @@ Dry:
 
 **OBS! One pink cloth per toilet! Do not use the same cloth twice.**
 
+### 5.1 Staff Toilet
+
+[$] Take a pink microfiber cloth and dampen it with water. Use the cloth to wipe door handles, the door, light switch, mirror, toilet paper holder, sanitary bag holder, and both the top and underside of the sink. Then use the same cloth to clean the toilet, both outside and inside.
+
+[$] Then disinfect all surfaces mentioned above using surface disinfectant on a paper towel.
+
+[$] If there is an odor, pour a few drops of soap into the toilet bowl. Then use the toilet brush located in the lower cabinet by the changing table.
+
 ### 6. Trash cans
 [$] Empty the trash cans on the toilets and throw in the garbage room, they can be found to the right of the entrance door through which you entered the house.
 
