@@ -16,65 +16,60 @@ input[type=checkbox] { transform:scale(1.3); margin-right:8px; }
 </style>
 </head>
 <body class="container py-4">
-
 <h1 class="mb-3">Barnlåten Städlista</h1>
-
 <div class="no-print mb-3">
-  <div class="btn-group mb-2">
+  <div class="btn-group mb-2 me-2">
     <button class="btn btn-primary" id="sv">Svenska</button>
     <button class="btn btn-outline-secondary" id="en">English</button>
   </div>
-  <div class="btn-group mb-2">
+  <div class="btn-group mb-2 me-2">
     <button class="btn btn-primary" id="vardag">Vardag</button>
     <button class="btn btn-outline-secondary" id="helg">Helg</button>
   </div>
-  <button id="clear" class="btn btn-outline-secondary">Rensa alla bockar</button>
+  <div class="btn-group mb-2 me-2">
+    <button class="btn btn-outline-danger" id="sjuk">Magsjuka</button>
+  </div>
+  <button id="clear" class="btn btn-outline-secondary mb-2">Rensa alla bockar</button>
 </div>
-
 <div id="list" class="bg-white p-3 rounded shadow-sm"></div>
-
 <script>
-let lang = 'sv';
-let mode = 'vardag';
-
+let lang='sv',mode='vardag',sjuk=false;
+function fileName(){return sjuk?`${mode}_sjuk_${lang}.md`:`${mode}_${lang}.md`; }
 function loadList(){
-  const file = `${mode}_${lang}.md`;
-  fetch(file)
-    .then(r => r.text())
-    .then(md => {
-      document.getElementById('list').innerHTML = marked.parse(md);
-      restoreChecks();
-      enableAutoSave();
-    });
+  fetch(fileName()).then(r=>r.text()).then(md=>{
+    document.getElementById('list').innerHTML=marked.parse(md);
+    restoreChecks(); enableAutoSave();
+  }).catch(()=>{document.getElementById('list').innerHTML='<div class="alert alert-warning">Lista saknas</div>';});
 }
-
 function enableAutoSave(){
   document.querySelectorAll('input[type=checkbox]').forEach((cb,i)=>{
-    cb.addEventListener('change',()=>{
-      const key = `${mode}_${lang}_${i}`;
-      localStorage.setItem(key, cb.checked);
-    });
+    cb.addEventListener('change',()=>localStorage.setItem(fileName()+'_'+i,cb.checked));
   });
 }
-
 function restoreChecks(){
   document.querySelectorAll('input[type=checkbox]').forEach((cb,i)=>{
-    const key = `${mode}_${lang}_${i}`;
-    cb.checked = localStorage.getItem(key) === 'true';
+    cb.checked=localStorage.getItem(fileName()+'_'+i)==='true';
   });
 }
-
-document.getElementById('sv').onclick=()=>{lang='sv';loadList();};
-document.getElementById('en').onclick=()=>{lang='en';loadList();};
-document.getElementById('vardag').onclick=()=>{mode='vardag';loadList();};
-document.getElementById('helg').onclick=()=>{mode='helg';loadList();};
-
+function resetButtons(){
+  document.getElementById('sv').className=lang==='sv'?'btn btn-primary':'btn btn-outline-secondary';
+  document.getElementById('en').className=lang==='en'?'btn btn-primary':'btn btn-outline-secondary';
+  document.getElementById('vardag').className=mode==='vardag'?'btn btn-primary':'btn btn-outline-secondary';
+  document.getElementById('helg').className=mode==='helg'?'btn btn-primary':'btn btn-outline-secondary';
+  document.getElementById('sjuk').className=sjuk?'btn btn-danger':'btn btn-outline-danger';
+}
+['sv','en','vardag','helg','sjuk'].forEach(id=>{
+  document.getElementById(id).onclick=()=>{
+    if(id==='sv'||id==='en')lang=id;
+    else if(id==='vardag'||id==='helg')mode=id;
+    else if(id==='sjuk')sjuk=!sjuk;
+    resetButtons(); loadList();
+  };
+});
 document.getElementById('clear').onclick=()=>{
   document.querySelectorAll('input[type=checkbox]').forEach(cb=>cb.checked=false);
-  Object.keys(localStorage).forEach(k=>{ if(k.startsWith(mode+"_"+lang)) localStorage.removeItem(k); });
+  Object.keys(localStorage).forEach(k=>{if(k.startsWith(fileName()))localStorage.removeItem(k)});
 };
-
-loadList();
+resetButtons(); loadList();
 </script>
-</body>
-</html>
+</body></html>
