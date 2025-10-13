@@ -1,13 +1,13 @@
 ## Cleaning list – Weekend
 
-[$] 1. Cross off your children´s name on the cleaning schedule on the drying cabinet.
+[$] Cross off your children´s name on the cleaning schedule on the drying cabinet.
 
-### 2. Dishwashing
+### 1. Dishwashing
 [$] Check if there are unwashed dishes on the kitchen counter or in the sink.
 
 [$] Place any unwashed dishes in the dishwasher.
 
-### 3. Washing and drying of mops and microfiber cloths
+### 2. Washing and drying of mops and microfiber cloths
 [$] Put all mops and cloths from the laundry basket in the washing machine.
 
 [$] Add detergent and run Fast ("Snabb") program at 60 degrees.
@@ -18,7 +18,7 @@ Should there be a problem opening the door of the washing machine, running a sho
   
 **NOTE! If there are cases of contagious diseases at the preschool, the staff will notify this by putting a note on the washing machine. In that case, mops and cloths must be washed at 90 degrees.**
 
-### 4. Mirrors
+### 3. Mirrors
 [$] Clean all mirrors with a blue microfiber cloth moisten with some water. 
 Mirrors can be found:
 * at the toiltes,
@@ -26,7 +26,7 @@ Mirrors can be found:
 * in the green room,
 * and in the laundry room
 
-### 5. Toilets
+### 4. Toilets
 [$] Take a pink microfiber cloth and moist it with water. 
 Dry:
 * the door handles, 
@@ -45,7 +45,7 @@ Dry:
 
 **OBS! One pink cloth per toilet! Do not use the same cloth twice.**
 
-### 5.1 Staff Toilet
+### 5 Staff Toilet
 
 [$] Take a pink microfiber cloth and dampen it with water. Use the cloth to wipe door handles, the door, light switch, mirror, toilet paper holder, sanitary bag holder, and both the top and underside of the sink. Then use the same cloth to clean the toilet, both outside and inside.
 
