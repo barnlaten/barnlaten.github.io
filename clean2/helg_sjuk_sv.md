@@ -142,14 +142,12 @@ Speglar finns:
 - Använd inte medel/såpa på golvet. Såpa bygger upp en hinna på golvet som på sikt gör att smuts fastnar på golvet och bakterier får fäste. Skulle det behövas använd det för fläckborttagning men se till att det torkas bort med vatten. Används mopparna rätt ska det inte behövas utan det räcker med vatten som sprejas på med sprejflaskan.
 
 ### Övrig information
-- Städansvaret ligger hos Miljögruppen. Miljögruppen kan man nå genom att mejla till miljo@barnlaten.se
-- Mejla alltid Miljögruppen om det är något du upptäcker som saknas när du städar eller om du tar sista av något/öppnar sista flaska osv.
-- Kontrollera alltid att dammsugarpåsen inte är full, meddela Miljögruppen om ni öppnar sista kartongen med dammsugarpåsar.
-- Rengöringsmedel finns i skåpet till vänster om dörren mellan skötrum och lekrum.
-- Vardagsstädning tar ca 1h och helgstädning ca 1,5h när man har fått in vanan.
-- Sist men inte minst... Använd sunt förnuft och tänk på att vi städar för att våra barn och personalen ska ha bra miljö omkring sig och för att minimera att smitta sprids.
 - Städansvaret ligger hos Städansvarig (Anton Willeson Nordlund). Städansvarig kan bl.a. nås genom att skicka mail till stadansvarig@barnlaten.se
 - Vardagsstädet tar ca. 2 timmar och helgstädet tar ca. 2,5 timmar
+- Mejla alltid Städansvarig om det är något du upptäcker som saknas när du städar eller om du tar sista av något/öppnar sista flaska osv.
+- Kontrollera alltid att dammsugarpåsen inte är full, meddela Städansvarig om ni öppnar sista kartongen med dammsugarpåsar.
+- Rengöringsmedel finns i skåpet till vänster om dörren mellan skötrum och lekrum.
+- Sist men inte minst... Använd sunt förnuft och tänk på att vi städar för att våra barn och personalen ska ha bra miljö omkring sig och för att minimera att smitta sprids.
 
 ### Följande görs av personalen varje dag
 - Sopar under borden och håller ordning i köket.

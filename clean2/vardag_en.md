@@ -93,14 +93,12 @@ Dry:
 - Don't use any cleaning Chemicals on the floor, not even "såpa". Use water on "stubborn" smudges.
 
 ### Other information
-- The responsibility for cleaning lies with the "Miljögruppen". The environmental group can be reached by emailing miljo@barnlaten.se
-- Always email "Miljögruppen" if there is something you discover that is missing when you clean or if you take the last of something / open the last bottle, etc.
-- Always check that the vacuum cleaner bag is not full, notify "Miljögruppen" if you open the last box with vacuum cleaner bags.
-- Detergent is in the cupboard to the left of the door between the changing room and the playroom.
-- Everyday cleaning takes about 1 hour and weekend cleaning about 1.5 hours once you have gotten into the habit.
-- Last but not least ... Use common sense and remember that we clean so that our children and staff have a good environment around them and to minimize the spread of infection.
 - Cleaning responsibility lies with the Cleaning Manager (Anton Willeson Nordlund). The Cleaning Manager can be reached by sending an email to stadansvarig@barnlaten.se
 - Daily cleaning takes approximately 2 hours, and weekend cleaning takes about 2.5 hours.
+- Always contact Cleaning Manager if there is something you discover that is missing when you clean or if you take the last of something / open the last bottle, etc.
+- Always check that the vacuum cleaner bag is not full, notify Cleaning Manager if you open the last box with vacuum cleaner bags.
+- Detergent is in the cupboard to the left of the door between the changing room and the playroom.
+- Last but not least ... Use common sense and remember that we clean so that our children and staff have a good environment around them and to minimize the spread of infection.
 
 ### The following is done by the staff every day
 - Sweeps under the tables and keeps order in the kitchen.
@@ -109,6 +107,5 @@ Dry:
 - Washes linen and towels.
 - Washes changing table and sink.
 - Check that toilet paper and soap are available.
-
 
 - Last update 2025-10-14
