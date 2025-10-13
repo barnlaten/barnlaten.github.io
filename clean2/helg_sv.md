@@ -54,7 +54,7 @@ Speglar finns:
 **OBS! En rosa trasa per toalett, använd ej samma!**
 
 ### 5. Papperskorgar
-[$]  Töm papperskorgarna på toaletterna och släng i soprummet, nyckeln finns till höger på dörrkarmen innanför entrédörren som ni kom in i.
+[$] Töm papperskorgarna på samtliga toaletter samt sanitetspåshållaren på personaltoaletten och släng i soprummet, nyckeln finns till höger på dörrkarmen innanför entrédörren som ni kom in i.
 
 [$]  Sätt i ny påse. Nya påsar finns i skåpet vid skötbordet.
 

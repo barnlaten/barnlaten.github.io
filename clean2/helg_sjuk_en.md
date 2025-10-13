@@ -56,7 +56,7 @@ Dry:
 [$] If there is an odor, pour a few drops of soap into the toilet bowl. Then use the toilet brush located in the lower cabinet by the changing table.
 
 ### 5. Trash cans
-[$] Empty the trash cans on the toilets and throw in the garbage room, they can be found to the right of the entrance door through which you entered the house.
+[$] Empty the waste bins in all toilets, as well as the sanitary bag holder in the staff toilet, and dispose of the waste in the garbage room. The key is located to the right on the door frame inside the entrance door you came in through.
 
 [$] Put in a new trash bag. New trash bags are found in the cupboard next to the washing machine.
 

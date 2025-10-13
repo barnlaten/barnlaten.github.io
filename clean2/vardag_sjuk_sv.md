@@ -34,7 +34,7 @@ Speglar finns:
 [$] Vid lukt, häll några droppar såpa i toalettstolen. Använd sedan Toalettborsten som finns i nedre skåpet vid skötbordet.
 
 ### 5. Papperskorgar
-[$] Töm papperskorgarna på toaletterna och släng i soprummet, nyckeln finns till höger på dörrkarmen innanför entrédörren som ni kom in i.
+[$] Töm papperskorgarna på samtliga toaletter samt sanitetspåshållaren på personaltoaletten och släng i soprummet, nyckeln finns till höger på dörrkarmen innanför entrédörren som ni kom in i.
 
 [$] Sätt i ny påse. Nya påsar finns i skåpet vid skötbordet.
 
