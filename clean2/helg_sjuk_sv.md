@@ -1,6 +1,6 @@
 ## Städlista – Helg vid magsjuka
 
-### 1. Stryk ditt barns namn på dagens datum på städlistan.**
+[$] Stryk ditt barns namn på dagens datum på städlistan.
 
 ### 2. Disk**
 [$] Kontrollera om det finns disk på köksbänken eller i vasken.
