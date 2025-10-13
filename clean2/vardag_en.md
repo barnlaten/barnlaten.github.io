@@ -99,6 +99,8 @@ Dry:
 - Detergent is in the cupboard to the left of the door between the changing room and the playroom.
 - Everyday cleaning takes about 1 hour and weekend cleaning about 1.5 hours once you have gotten into the habit.
 - Last but not least ... Use common sense and remember that we clean so that our children and staff have a good environment around them and to minimize the spread of infection.
+- Cleaning responsibility lies with the Cleaning Manager (Anton Willeson Nordlund). The Cleaning Manager can be reached by sending an email to stadansvarig@barnlaten.se
+- Daily cleaning takes approximately 2 hours, and weekend cleaning takes about 2.5 hours.
 
 ### The following is done by the staff every day
 - Sweeps under the tables and keeps order in the kitchen.
@@ -109,4 +111,4 @@ Dry:
 - Check that toilet paper and soap are available.
 
 
-- Last update 2020-03-08
+- Last update 2025-10-14

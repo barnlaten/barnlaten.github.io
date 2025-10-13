@@ -146,6 +146,8 @@ Speglar finns:
 - Rengöringsmedel finns i skåpet till vänster om dörren mellan skötrum och lekrum.
 - Vardagsstädning tar ca 1h och helgstädning ca 1,5h när man har fått in vanan.
 - Sist men inte minst... Använd sunt förnuft och tänk på att vi städar för att våra barn och personalen ska ha bra miljö omkring sig och för att minimera att smitta sprids.
+- Städansvaret ligger hos Städansvarig (Anton Willeson Nordlund). Städansvarig kan bl.a. nås genom att skicka mail till stadansvarig@barnlaten.se
+- Vardagsstädet tar ca. 2 timmar och helgstädet tar ca. 2,5 timmar
 
 ### Följande görs av personalen varje dag
 - Sopar under borden och håller ordning i köket.
@@ -155,4 +157,4 @@ Speglar finns:
 - Tvättar skötbord och tvätthon.
 - Kontrollerar att toalletpapper och tvål finns.
 
-- Uppdaterad 2020-03-08
+- Uppdaterad 2025-10-14

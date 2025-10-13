@@ -128,3 +128,39 @@ Dry:
 [$] Do not forget to remove the mops and cloths from the dryer, fold and place them in the cabinets.
 
 [$] Make sure you turn on the alarm system before leaving!
+
+## Info
+
+### In case of an outbreak of stomach disease
+- To see the cleaning routines that apply to during a outbreak of stomach illness, select "Stomach flu" at the top of this page.
+- In the event of an outbreak of stomach illness, the staff will put up a note on the cleaning schedule with the text <b> Virkon </b>.
+- If there is mixed Virkon, use it. Check that the date does not exceed 5 days.
+- If the solution is too old or out of stock mix new solution. Instructions and materials are in the cupboard to the left of the door between the changing room and the playroom.
+
+### Tips and tricks
+- Always hang the mops and cloths on the rim of the laundry basket.
+- Don't put the chairs standing on the tables, put them up-side-down or hang them on the side of the table.
+- Don't forget to put down all the latches, including the door out to the yard.
+- Don't use to much water when mopping. Too much water on the floor make bacteria grow and can damage the floor.
+- Don't use any cleaning Chemicals on the floor, not even "såpa". Use water on "stubborn" smudges.
+
+### Other information
+- The responsibility for cleaning lies with the "Miljögruppen". The environmental group can be reached by emailing miljo@barnlaten.se
+- Always email "Miljögruppen" if there is something you discover that is missing when you clean or if you take the last of something / open the last bottle, etc.
+- Always check that the vacuum cleaner bag is not full, notify "Miljögruppen" if you open the last box with vacuum cleaner bags.
+- Detergent is in the cupboard to the left of the door between the changing room and the playroom.
+- Everyday cleaning takes about 1 hour and weekend cleaning about 1.5 hours once you have gotten into the habit.
+- Last but not least ... Use common sense and remember that we clean so that our children and staff have a good environment around them and to minimize the spread of infection.
+- Cleaning responsibility lies with the Cleaning Manager (Anton Willeson Nordlund). The Cleaning Manager can be reached by sending an email to stadansvarig@barnlaten.se
+- Daily cleaning takes approximately 2 hours, and weekend cleaning takes about 2.5 hours.
+
+### The following is done by the staff every day
+- Sweeps under the tables and keeps order in the kitchen.
+- Throws away garbage, leftover food and diapers.
+- Cleans shelves and cabinets where toys and other materials are available.
+- Washes linen and towels.
+- Washes changing table and sink.
+- Check that toilet paper and soap are available.
+
+
+- Last update 2025-10-14
