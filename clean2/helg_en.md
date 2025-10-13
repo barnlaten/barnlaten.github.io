@@ -3,18 +3,20 @@
 [$] 1. Cross off your children´s name on the cleaning schedule on the drying cabinet.
 
 ### 2. Dishwashing
-Check if there are unwashed dishes on the kitchen counter or in the sink.
+[$] Check if there are unwashed dishes on the kitchen counter or in the sink.
+
 [$] Place any unwashed dishes in the dishwasher.
-Then start the dishwasher. Detergent is found in the cupboard above the stove.
 
 ### 3. Washing and drying of mops and microfiber cloths
 [$] Put all mops and cloths from the laundry basket in the washing machine.
+
 [$] Add detergent and run Fast ("Snabb") program at 60 degrees.
+
 [$] When the washing machine is ready, put all mops and cloths in the drying machine and then fold them and put everything in the cleaning cabinet.
+
+Should there be a problem opening the door of the washing machine, running a short program eg Rinse ("Skölj"), will make it possible to open.
   
-  Should there be a problem opening the door of the washing machine, running a short program eg Rinse ("Skölj"), will make it possible to open.
-  
-  NOTE! If there are cases of contagious diseases at the preschool, the staff will notify this by putting a note on the washing machine. In that case, mops and cloths must be washed at 90 degrees.
+**NOTE! If there are cases of contagious diseases at the preschool, the staff will notify this by putting a note on the washing machine. In that case, mops and cloths must be washed at 90 degrees.**
 
 ### 4. Mirrors
 [$] Clean all mirrors with a blue microfiber cloth moisten with some water. 
