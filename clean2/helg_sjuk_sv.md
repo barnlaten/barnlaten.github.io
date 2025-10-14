@@ -2,12 +2,12 @@
 
 [$] Stryk ditt barns namn på dagens datum på städlistan.
 
-### 2. Disk
+### 1. Disk
 [$] Kontrollera om det finns disk på köksbänken eller i vasken.
 
 [$] Ställ ner eventuell disk i diskmaskinen. 
 
-### 3. Tvätt och torkning av moppar och microfiberdukar
+### 2. Tvätt och torkning av moppar och microfiberdukar
 [$] Lägg in alla moppar och dukar från tvättkorgen i tvättmaskinen.
 
 [$] Lägg i tvättmedel och kör program "Snabb" på **90** grader.
@@ -18,7 +18,7 @@ Skulle det vara problem att öppna luckan kör ett kort program (t.ex. "Skölj")
   
 **OBS! Om det går smittor på förskolan ska personalen meddelat detta och då ska maskinen tvättas på 90 grader.**
 
-### 4. Speglar
+### 3. Speglar
 [$] Rengör alla speglar med blå microfibertrasa fuktad med lite ljummet vatten.  
 
 Speglar finns:
@@ -27,7 +27,7 @@ Speglar finns:
 - i gröna rummet, 
 - samt i tvättrummet.
 
-### 5. Toaletter
+### 4. Toaletter
 [$] Ta en rosa microfibertrasa och fukta den med vatten, torka av: 
 - dörrhanddtag,  
 - dörr,  
@@ -45,7 +45,7 @@ Speglar finns:
   
   OBS! En rosa trasa per toalett, använd ej samma!
 
-### 5.1 Personaltoalett
+### 5 Personaltoalett
 
 [$] Ta en rosa mikrofibertrasa och fukta med vatten. Använd trasan för att torka av dörrhandtag, dörr, lampknapp spegel, toalettpappershållare, sanitetspåshållaren samt både ovansidan och undersidan av handfatet. Använd sedan samma trasa för att tvätta toalettstolen utvändigt och invändigt.
 
