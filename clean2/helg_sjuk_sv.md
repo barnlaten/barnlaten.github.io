@@ -2,12 +2,12 @@
 
 [$] Stryk ditt barns namn på dagens datum på städlistan.
 
-### 2. Disk**
+### 2. Disk
 [$] Kontrollera om det finns disk på köksbänken eller i vasken.
 
 [$] Ställ ner eventuell disk i diskmaskinen. 
 
-### 3. Tvätt och torkning av moppar och microfiberdukar**
+### 3. Tvätt och torkning av moppar och microfiberdukar
 [$] Lägg in alla moppar och dukar från tvättkorgen i tvättmaskinen.
 
 [$] Lägg i tvättmedel och kör program "Snabb" på **90** grader.
