@@ -11,7 +11,7 @@ layout: default
       <a href="https://filer.barnlaten.se">Filer</a>
   </li>
   <li class="list-group-item">Städinstruktioner<br>
-      <a href="https://barnlaten.se/clean">För föräldrar</a>
+      <a href="https://barnlaten.se/clean2">För föräldrar</a>
   </li>
   <li class="list-group-item">Enkäter<br>
       <a href="https://forms.barnlaten.se">Fylla i</a><br>
