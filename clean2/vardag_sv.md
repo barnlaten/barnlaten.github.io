@@ -16,7 +16,9 @@ Speglar finns:
  * I gröna rummet,
  * Tvättrrummet.
 
-### 3. Toaletter
+### 3. Toaletter och Hanfat
+
+#### Toalett 1
 [$] Ta en rosa microfibertrasa och fukta den med vatten, torka av dörrhanddtag, dörr, lampknapp, lampkupor, handduksdispensrar, tvåldispensrar, toalettpappershållare samt både ovan och undersidan av handfatet med denna och använd sedan samma trasa till att tvätta toalettstolen ut och invändigt, lägg sedan trasan i tvättkorgen.
 
 [$] Ytdesinficera sedan allt enligt ovan med ytdesinfection **på pappershandduk**.
@@ -25,45 +27,51 @@ Speglar finns:
   
 **OBS! En rosa trasa per toalett, använd ej samma!**
 
-### 3.1 Personaltoalett
+#### Toalett 2
+Gör enligt ovan beskrivning för toalett 1.
 
-[$] Ta en rosa mikrofibertrasa och fukta med vatten. Använd trasan för att torka av dörrhandtag, dörr, lampknapp spegel, toalettpappershållare, sanitetspåshållaren samt både ovansidan och undersidan av handfatet. Använd sedan samma trasa för att tvätta toalettstolen utvändigt och invändigt.
-
-[$] Ytdesinfecera sedan allt enligt ovanstående med ytdesinfection på pappershanduk.
-
-[$] Vid lukt, häll några droppar såpa i toalettstolen. Använd sedan Toalettborsten som finns i nedre skåpet vid skötbordet.
+#### Handfat i tvättrum
+Ta en rosa microfibertrasa och fukta den med vatten. Torka av, tvåldispenser och både ovan och undersidan av handfat. Lägg sedan trasan i tvättkorgen.
 
 ### 4. Papperskorgar
-[$] Töm papperskorgarna på samtliga toaletter samt sanitetspåshållaren på personaltoaletten och släng i soprummet, nyckeln finns till höger på dörrkarmen innanför entrédörren som ni kom in i.
+[$] Töm papperskorgarna på samtliga toaletter samt sanitetspåshållaren på personaltoaletten och släng i soprummet, nyckeln finns till vänster innanför entrédörren.
 
 [$] Sätt i ny påse. Nya påsar finns i skåpet vid skötbordet.
 
 ### 5. Handtag och lampknappar
 [$] Använd ytdesinfektion **på pappershandduk** och sprita av alla handtag och lampknappar i alla rum.
 
-### 6. Dörrar
-[$] Avfläcka/torka av alla dörrar, inklusive dörrkarm, med fuktad blå microfibertrasa.
-
-### 7. Lampor
-[$] Torka av de röda lamporna ovan borden i köket med en fuktad blå microfibertrasa.
-
 ### 8. Dammsugning
 [$] Dammsug alla golv, soffor och mattor, använd gärna munstycket med lila detaljer till textilier.
 
-[$] Vädra gärna samtidigt som du damsuger och kom ihåg att stänga alla fönster efteråt.
+[$] Vädra gärna samtidigt som du dammsuger och kom ihåg att stänga alla fönster efteråt.
 
 ### 9. Moppa
 [$] Fukta en microfibermopp med vatten, moppa golvet i köket.
 
 [$] Byt sedan till en ny mopp, fukta den och moppa hallen.
 
-[$] Ta ännu en ny mopp fukta och moppa i gröna rummet, mållarummet och på en av toaletterna.
+[$] Byt till en ny mopp, fukta den med vatten och moppa i vilorummet, lekrummet och på en av toaletterna.
 
-[$] Slutligen ta en ny fjärde mopp, fukta den och moppa sedan lekhallen, i tvättrummet och på den andra toaletten.
+[$]  Byt till en ny mopp, fukta den med vatten och moppa övriga ytor, avsluta med den andra toaletten.
 
-[$] Moppa även under alla skåp samt använd endast vatten att fukta med! Ta med en flaska med vatten för att kunna blötlägga fläckar som är svåra att få bort.
+[$] Ta med en flaska med vatten för att kunna blötlägga fläckar som är svåra att få bort.
   
 **OBS! Häng de använda mopparna på tvättkorgen när du är klar.**
+### Matta i köket
+Rengör de grå/svarta mattorna i köket, använd den fuktade blå microfibertrasa/mopp.
+
+### Torsdagstvätt (endast torsdagar)
+
+[$] Tvätt och torkning av moppar och microfiberdukar (OBS! endast på torsdagar)
+
+[$] Lägg in alla moppar och dukar från tvättkorgen i tvättmaskinen.
+
+[$] Lägg i tvättmedel och kör program på 60 grader.
+
+[$] När maskinen är klar torktumla och vik sedan och lägg in allt i städskåpet.
+
+OBS! Om det går smittor på förskolan ska personalen meddelat detta och då ska maskinen tvättas på 90 grader.
 
 ### Avslutning
 [$] Återställ stolar och bord stäng alla fönster och "haspa" alla dörrar.
