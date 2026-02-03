@@ -21,7 +21,9 @@ Speglar finns:
 #### Toalett 1
 [$] Ta en rosa microfibertrasa och fukta den med vatten, torka av dörrhanddtag, dörr, lampknapp, lampkupor, handduksdispensrar, tvåldispensrar, toalettpappershållare samt både ovan och undersidan av handfatet med denna och använd sedan samma trasa till att tvätta toalettstolen ut och invändigt, lägg sedan trasan i tvättkorgen.
 
-[$] Ytdesinficera sedan allt enligt ovan med ytdesinfection **på pappershandduk**.
+[$] Ytdesinficera sedan allt enligt ovan med ”ECOLAB OxtFoam S”:
+
+Spraya ytan från ca 30cm, försäkra dig att ytan är helt våt. Torka ytan med en ren servett och lämna för att torka. Alternativt, applicera produkten på en ren servett, torka ytan och lämna för att torka.
 
 [$] Vid lukt häll några droppar såpa i toalettstolen. Toalettborste finns i skåpet vid skötbordet.
   
@@ -39,7 +41,9 @@ Ta en rosa microfibertrasa och fukta den med vatten. Torka av, tvåldispenser oc
 [$] Sätt i ny påse. Nya påsar finns i skåpet vid skötbordet.
 
 ### 5. Handtag och lampknappar
-[$] Använd ytdesinfektion **på pappershandduk** och sprita av alla handtag och lampknappar i alla rum.
+[$] Ytdesinficera handtag och lampknappar i alla rum med ”ECOLAB OxtFoam S”:
+
+Spraya ytan från ca 30cm, försäkra dig att ytan är helt våt. Torka ytan med en ren servett och lämna för att torka. Alternativt, applicera produkten på en ren servett, torka ytan och lämna för att torka.
 
 ### 8. Dammsugning
 [$] Dammsug alla golv, soffor och mattor, använd gärna munstycket med lila detaljer till textilier.
