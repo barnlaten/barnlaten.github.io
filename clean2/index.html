@@ -39,11 +39,7 @@
 <h1 class="mb-3">Barnlåten Städlista</h1>
 
 <div class="no-print mb-3">
-  <div class="btn-group mb-2 me-2">
-    <button class="btn btn-primary" id="sv">Svenska</button>
-    <button class="btn btn-outline-secondary" id="en">English</button>
-  </div>
-
+  <!-- Språkval borttaget: endast Svenska -->
   <div class="btn-group mb-2 me-2">
     <button class="btn btn-primary" id="vardag">Vardag</button>
     <button class="btn btn-outline-secondary" id="helg">Helg</button>
@@ -59,74 +55,72 @@
 <div id="list" class="bg-white p-3 rounded shadow-sm"></div>
 
 <script>
-let lang = 'sv';
-let mode = 'vardag';
-let sjuk = false;
+  // Endast svenska
+  const lang = 'sv';
+  let mode = 'vardag';
+  let sjuk = false;
 
-function fileName() {
-  return sjuk ? `${mode}_sjuk_${lang}.md` : `${mode}_${lang}.md`;
-}
+  function fileName() {
+    return sjuk ? `${mode}_sjuk_${lang}.md` : `${mode}_${lang}.md`;
+  }
 
-function loadList() {
-  const file = fileName();
-  fetch(file)
-    .then(r => r.ok ? r.text() : Promise.reject("not found"))
-    .then(md => {
-      md = md.replace(/\[\$\]/g, '<input type="checkbox">');
-      const html = marked.parse(md, { gfm: true });
-      document.getElementById('list').innerHTML = html;
-      restoreChecks();
-      enableAutoSave();
-    })
-    .catch(() => {
-      document.getElementById('list').innerHTML =
-        `<div class="alert alert-danger">Filen saknas: <b>${file}</b></div>`;
+  function loadList() {
+    const file = fileName();
+    fetch(file)
+      .then(r => r.ok ? r.text() : Promise.reject("not found"))
+      .then(md => {
+        md = md.replace(/\[\$\]/g, '<input type="checkbox">');
+        const html = marked.parse(md, { gfm: true });
+        document.getElementById('list').innerHTML = html;
+        restoreChecks();
+        enableAutoSave();
+      })
+      .catch(() => {
+        document.getElementById('list').innerHTML =
+          `<div class="alert alert-danger">Filen saknas: <b>${file}</b></div>`;
+      });
+  }
+
+  function enableAutoSave() {
+    document.querySelectorAll('input[type=checkbox]').forEach((cb, i) => {
+      cb.addEventListener('change', () => {
+        const key = `${fileName()}_${i}`;
+        localStorage.setItem(key, cb.checked);
+      });
     });
-}
+  }
 
-function enableAutoSave() {
-  document.querySelectorAll('input[type=checkbox]').forEach((cb, i) => {
-    cb.addEventListener('change', () => {
+  function restoreChecks() {
+    document.querySelectorAll('input[type=checkbox]').forEach((cb, i) => {
       const key = `${fileName()}_${i}`;
-      localStorage.setItem(key, cb.checked);
+      cb.checked = localStorage.getItem(key) === 'true';
     });
+  }
+
+  function resetButtons() {
+    document.getElementById('vardag').className = mode === 'vardag' ? 'btn btn-primary' : 'btn btn-outline-secondary';
+    document.getElementById('helg').className = mode === 'helg' ? 'btn btn-primary' : 'btn btn-outline-secondary';
+    document.getElementById('sjuk').className = sjuk ? 'btn btn-danger' : 'btn btn-outline-danger';
+  }
+
+  ['vardag','helg','sjuk'].forEach(id => {
+    document.getElementById(id).onclick = () => {
+      if (id === 'vardag' || id === 'helg') mode = id;
+      else if (id === 'sjuk') sjuk = !sjuk;
+      resetButtons();
+      loadList();
+    };
   });
-}
 
-function restoreChecks() {
-  document.querySelectorAll('input[type=checkbox]').forEach((cb, i) => {
-    const key = `${fileName()}_${i}`;
-    cb.checked = localStorage.getItem(key) === 'true';
-  });
-}
-
-function resetButtons() {
-  document.getElementById('sv').className = lang === 'sv' ? 'btn btn-primary' : 'btn btn-outline-secondary';
-  document.getElementById('en').className = lang === 'en' ? 'btn btn-primary' : 'btn btn-outline-secondary';
-  document.getElementById('vardag').className = mode === 'vardag' ? 'btn btn-primary' : 'btn btn-outline-secondary';
-  document.getElementById('helg').className = mode === 'helg' ? 'btn btn-primary' : 'btn btn-outline-secondary';
-  document.getElementById('sjuk').className = sjuk ? 'btn btn-danger' : 'btn btn-outline-danger';
-}
-
-['sv','en','vardag','helg','sjuk'].forEach(id => {
-  document.getElementById(id).onclick = () => {
-    if (id === 'sv' || id === 'en') lang = id;
-    else if (id === 'vardag' || id === 'helg') mode = id;
-    else if (id === 'sjuk') sjuk = !sjuk;
-    resetButtons();
-    loadList();
+  document.getElementById('clear').onclick = () => {
+    document.querySelectorAll('input[type=checkbox]').forEach(cb => cb.checked = false);
+    Object.keys(localStorage).forEach(k => {
+      if (k.startsWith(fileName())) localStorage.removeItem(k);
+    });
   };
-});
 
-document.getElementById('clear').onclick = () => {
-  document.querySelectorAll('input[type=checkbox]').forEach(cb => cb.checked = false);
-  Object.keys(localStorage).forEach(k => {
-    if (k.startsWith(fileName())) localStorage.removeItem(k);
-  });
-};
-
-resetButtons();
-loadList();
+  resetButtons();
+  loadList();
 </script>
 
 </body>
