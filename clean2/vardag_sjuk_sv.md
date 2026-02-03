@@ -1,74 +1,88 @@
-## Städlista – Vardag vid magsjuka
+## Städlista – Vardag
 
 [$] Stryk ditt barns namn på dagens datum på städlistan.
 
 ### 1. Disk
-[$] Kontrollera om det finns disk på köksbänken eller i vasken.
+[$] Kontrollera om det finns disk på köksbänken eller i vasken. 
 
 [$] Ställ ner eventuell disk i diskmaskinen. 
 
-### 3. Speglar
-[$] Rengör alla speglar med blå microfibertrasa fuktad med lite ljummet vatten.  
+### 2. Speglar
+[$] Rengör alla speglar med blå microfibertrasa fuktad med lite ljummet vatten. 
 
-Speglar finns:
-- på toaletterna,  
-- i hallen,  
-- i gröna rummet, 
-- samt i tvättrummet.
+Speglar finns: 
+ * På toaletterna,
+ * I hallen, 
+ * I gröna rummet,
+ * Tvättrrummet.
 
-### 4. Toaletter
+### 3. Toaletter och Hanfat
+
+#### Toalett 1
 [$] Ta en rosa microfibertrasa och fukta den med vatten, torka av dörrhanddtag, dörr, lampknapp, lampkupor, handduksdispensrar, tvåldispensrar, toalettpappershållare samt både ovan och undersidan av handfatet med denna och använd sedan samma trasa till att tvätta toalettstolen ut och invändigt, lägg sedan trasan i tvättkorgen.
 
-[$] Ytdesinficera sedan allt enligt ovan med Virkon **på pappershandduk**. Låt ytan självtorka (10 minuter). Eftertorka vid behov med fuktat papper eftersom Virkon efterlämnar ett fint damm som på blanka ytor behöver avtorkas, tex. handtag, kran och toalettpappershållare.
+[$] Ytdesinficera sedan allt enligt ovan med ”ECOLAB OxtFoam S”:
+
+Spraya ytan från ca 30cm, försäkra dig att ytan är helt våt. Torka ytan med en ren servett och lämna för att torka. Alternativt, applicera produkten på en ren servett, torka ytan och lämna för att torka.
 
 [$] Vid lukt häll några droppar såpa i toalettstolen. Toalettborste finns i skåpet vid skötbordet.
   
-  OBS! En rosa trasa per toalett, använd ej samma!
+**OBS! En rosa trasa per toalett, använd ej samma!**
 
-### 3.1 Personaltoalett
+#### Toalett 2
+Gör enligt ovan beskrivning för toalett 1.
 
-[$] Ta en rosa mikrofibertrasa och fukta med vatten. Använd trasan för att torka av dörrhandtag, dörr, lampknapp spegel, toalettpappershållare, sanitetspåshållaren samt både ovansidan och undersidan av handfatet. Använd sedan samma trasa för att tvätta toalettstolen utvändigt och invändigt.
+#### Handfat i tvättrum
+Ta en rosa microfibertrasa och fukta den med vatten. Torka av, tvåldispenser och både ovan och undersidan av handfat. Lägg sedan trasan i tvättkorgen.
 
-[$] Ytdesinficera sedan allt enligt ovan med Virkon **på pappershandduk**. Låt ytan självtorka (10 minuter). Eftertorka vid behov med fuktat papper eftersom Virkon efterlämnar ett fint damm som på blanka ytor behöver avtorkas, tex. handtag, kran och toalettpappershållare.
-
-[$] Vid lukt, häll några droppar såpa i toalettstolen. Använd sedan Toalettborsten som finns i nedre skåpet vid skötbordet.
-
-### 5. Papperskorgar
-[$] Töm papperskorgarna på samtliga toaletter samt sanitetspåshållaren på personaltoaletten och släng i soprummet, nyckeln finns till höger på dörrkarmen innanför entrédörren som ni kom in i.
+### 4. Papperskorgar
+[$] Töm papperskorgarna på samtliga toaletter samt sanitetspåshållaren på personaltoaletten och släng i soprummet, nyckeln finns till vänster innanför entrédörren.
 
 [$] Sätt i ny påse. Nya påsar finns i skåpet vid skötbordet.
 
-### 6. Handtag och lampknappar
-[$] Använd Virkon **på pappershandduk** och sprita av alla handtag och lampknappar i alla rum. Låt ytan självtorka (10 minuter). Eftertorka vid behov med fuktat papper eftersom Virkon efterlämnar ett fint damm som på blanka ytor behöver avtorkas, tex. handtag, kran och toalettpappershållare.
+### 5. Handtag och lampknappar
+[$] Ytdesinficera handtag och lampknappar i alla rum med ”ECOLAB OxtFoam S”:
 
-### 7. Dörrar
-[$] Avfläcka/torka av alla dörrar, inklusive dörrkarm, med fuktad blå microfibertrasa.
+Spraya ytan från ca 30cm, försäkra dig att ytan är helt våt. Torka ytan med en ren servett och lämna för att torka. Alternativt, applicera produkten på en ren servett, torka ytan och lämna för att torka.
 
-### 8. Lampor
-[$] Torka av de röda lamporna ovan borden i köket med en fuktad blå microfibertrasa.
-
-### 9. Dammsugning
+### 8. Dammsugning
 [$] Dammsug alla golv, soffor och mattor, använd gärna munstycket med lila detaljer till textilier.
 
-[$] Vädra gärna samtidigt som du damsuger och kom ihåg att stänga alla fönster efteråt.
+[$] Vädra gärna samtidigt som du dammsuger och kom ihåg att stänga alla fönster efteråt.
 
-### 10. Moppa
+### 9. Moppa
 [$] Fukta en microfibermopp med vatten, moppa golvet i köket.
 
 [$] Byt sedan till en ny mopp, fukta den och moppa hallen.
 
-[$] Ta ännu en ny mopp fukta och moppa i gröna rummet, mållarummet och på en av toaletterna.
+[$] Byt till en ny mopp, fukta den med vatten och moppa i vilorummet, lekrummet och på en av toaletterna.
 
-[$] Slutligen ta en ny fjärde mopp, fukta den och moppa sedan lekhallen, i tvättrummet och på den andra toaletten.
+[$]  Byt till en ny mopp, fukta den med vatten och moppa övriga ytor, avsluta med den andra toaletten.
 
-[$] Moppa även under alla skåp samt använd endast vatten att fukta med! Ta med en flaska med vatten för att kunna blötlägga fläckar som är svåra att få bort.
+[$] Ta med en flaska med vatten för att kunna blötlägga fläckar som är svåra att få bort.
   
 **OBS! Häng de använda mopparna på tvättkorgen när du är klar.**
+### Matta i köket
+Rengör de grå/svarta mattorna i köket, använd den fuktade blå microfibertrasa/mopp.
+
+### Torsdagstvätt (endast torsdagar)
+
+[$] Tvätt och torkning av moppar och microfiberdukar (OBS! endast på torsdagar)
+
+[$] Lägg in alla moppar och dukar från tvättkorgen i tvättmaskinen.
+
+[$] Lägg i tvättmedel och kör program på 60 grader.
+
+[$] När maskinen är klar torktumla och vik sedan och lägg in allt i städskåpet.
+
+OBS! Om det går smittor på förskolan ska personalen meddelat detta och då ska maskinen tvättas på 90 grader.
 
 ### Avslutning
 [$] Återställ stolar och bord stäng alla fönster och "haspa" alla dörrar.
 
 [$] Larma när du går!
+  
+-------------------------
 
 ## Info
 
