@@ -10,8 +10,13 @@
     <img src="../img/ledigaplatser.jpg" />
     Uppdaterad 2024-05-20
   </section>-->
-  <section {% cycle '', 'class="success"' %}>
-    <img src="../img/{{ post.image }}" />
+  <section class="index-section{% cycle '', ' success' %}">
+    <div class="section-image{% if post.image_crop %} image-crop{% endif %}">
+      <img src="../img/{{ post.image }}" />
+      {% if post.image_banner %}
+      <a class="image-banner" href="{{ post.image_banner_url | default: '#Anmälan' }}">{{ post.image_banner }}</a>
+      {% endif %}
+    </div>
     <a class="anchor" id="{{ post.title }}"></a>
     <div class="container">
       {{ post.content | markdownify }}
