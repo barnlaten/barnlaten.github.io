@@ -14,16 +14,18 @@ vilket ger oss pedagoger möjlighet att vara närvarande pedagoger
 och verkligen ha tid att se varje barn varje dag.
 Vi har ett nära samarbete med föräldrarna och beslutsvägarna är korta.
 
-### Timvikarie
+<a class="anchor" id="vikariepool"></a>
 
-Just nu söker vi timvikarier till förskolan Barnlåten. 
+### Vikariepool
+
+Just nu söker vi fler timvikarier till vår vikariepool på förskolan Barnlåten.
 
 Önskar du ha ett meningsfullt, varierande och roligt arbete tillsammans med barn?  
 Då kan timvikarie inom förskola vara något för dig!
 
-Tjänsten som timvikarie hos oss innebär att du med kort varsel kan komma och arbeta.  
-Denna tjänst går utmärkt att kombinera med studier eller annan sysselsättning.  
-Vi ser gärna att du har erfarenhet av att arbetat med barn sedan tidigare. 
+Att vara en del av vår vikariepool innebär att du kan hoppa in vid behov, ibland med kort varsel, och vara en trygg extra vuxen i barnens dag. Du är med i lek, måltider, utevistelse och vardagens rutiner tillsammans med vår ordinarie personal. Uppdraget passar bra att kombinera med studier eller annan sysselsättning.
+
+Vi söker dig som är varm, ansvarstagande och nyfiken på barns utveckling. Erfarenhet av att arbeta med barn är meriterande, men det viktigaste är att du möter barnen med närvaro, respekt och glädje.
 
 Känner du att detta är ett arbete som passar just dig?  
 Då ser vi fram emot din ansökan!
