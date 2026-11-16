@@ -15,7 +15,7 @@ Våra urvalsgrunder vid intagning av barn är:
 Inskolning sker under hela året, men vanligast är under höstterminen då de äldsta barnen lämnar boet.
 
 Följande blanketter ska fyllas i och skickas till Barnlåten vid ansökan om plats:
-* [Intresseanmälan](/docs/barnlatenansokan.docx)
+* Intresseanmälan ([PDF](/docs/barnlatenansokan.pdf) eller [Word](/docs/barnlatenansokan.docx))
 
 När barnet fått plats så ska följande dokument fyllas i:
 * [Kontrakt](docs/Kontrakt.docx)
